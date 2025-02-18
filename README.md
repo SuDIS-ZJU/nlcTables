@@ -5,6 +5,6 @@
 <br>
 
 <div align="center">
-<img src="imgs/F1.pdf" width="1000px">
+<img src="img/F1.png" width="1000px">
 </div>
 <br>
