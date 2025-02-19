@@ -20,7 +20,7 @@ Definition 1 (NL-conditional Table Discovery). Given a table repository $\mathca
 <br>
 
 <div align="center">
-    <img src="imgs/F1.png" width="1000px">
+    <img src="images/F1.png" width="1000px">
     <p style="font-size: 20px; font-weight: bold; margin-top: 10px;">Figure 1: Illustration of NL-conditional table discovery: Combining the query table with NL conditions (e.g., high-English-GPA students) enables more precise table retrieval.</p>
 </div>
 </div>
@@ -29,7 +29,17 @@ Definition 1 (NL-conditional Table Discovery). Given a table repository $\mathca
 <br>
 
 <div align="center">
-    <img src="imgs/F3.png" width="1000px">
+    <img src="images/F2.png" width="1000px">
+    <p style="font-size: 20px; font-weight: bold; margin-top: 10px;"> Figure 2: Illustration of NL-conditional table discovery: Combining the query table with NL conditions (e.g., high-Maths-
+grade students) enables more precise table retrieval.</p>
+</div>
+</div>
+<br>
+
+
+
+<div align="center">
+    <img src="images/F3.png" width="1000px">
     <p style="font-size: 20px; font-weight: bold; margin-top: 10px;"> Figure 3: The taxonomy of nlcTD, consisting of 16 NL condition subcategories along with their illustrative examples.</p>
 </div>
 </div>
@@ -47,16 +57,27 @@ Meanwhile, we manually annotate several ground truths based on
 real SQL use cases contained in the Spider dataset.
 
 <div align="center">
-    <img src="imgs/F4.png" width="1000px">
+    <img src="images/F4.png" width="1000px">
     <p style="font-size: 20px; font-weight: bold; margin-top: 10px;">Figure 4: The three stages of constructing nlcTables: (1) Table Preprocessing: collecting, filtering, and labeling tables; (2) Query Construction: splitting tables vertically and horizontally to create joinable and unionable tables; (3) Ground Truth Generation: generating labels via automatic table splitting with semantic augmentation, and manual SQL-based labeling.</p>
 </div>
 </div>
 <br>
 
 
+## Dataset construction framewok
 
 
 
 
 
+## Dataset 
+Our nlcTables supports NL-only table search (nlcTables_K), NL-conditional table union search (nlcTables-U), and NL-conditional table join search (nlcTables-J). 
+
+|                 Datasets                    | Queries | Ground Truth |
+| :-----------------------------------------: | :-----------------------------------------: | :-----------------------------------------: |
+|        [WebTable](https://drive.google.com/file/d/1tnI2EyrYHlc3fpv0SSMoe2sqWQZoOEjg/view?usp=drive_link)     | |  | 
+|       [OpenData_SG](https://drive.google.com/file/d/1pPKMJ2Xnd6gYtkT_zVHIHCC97K5Yib4e/view?usp=drive_link)       | |  |  
+|       [OpenData_CAN](https://drive.google.com/file/d/1ksOyaGVugeu7UJ0SKbYj4ri-rwgGfNH8/view?usp=drive_link)       |    |   |  
+|       [OpenData_UK、OpenData_USA](https://drive.google.com/drive/folders/1F9hIN815B6jmn85t-4gQGDoV-gLX8QvH?usp=drive_link)       |    |     |   
+|       [OpenData_UK、OpenData_USA](https://drive.google.com/drive/folders/1F9hIN815B6jmn85t-4gQGDoV-gLX8QvH?usp=drive_link)       |    |     |   
 
