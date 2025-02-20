@@ -1,0 +1,1 @@
+1	I want to find further tables that can be combined through union,  and these tables have Washington St & Broad St later than 1900-01-01.	q_table_1_2_3_1

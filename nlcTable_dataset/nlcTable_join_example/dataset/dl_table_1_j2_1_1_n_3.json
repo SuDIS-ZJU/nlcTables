@@ -1,0 +1,132 @@
+{
+    "title": [
+        "Quincy Center Bus Station",
+        "Hancock St & Walter J Hannon Pkwy"
+    ],
+    "numCols": 3,
+    "numericColumns": [],
+    "dateColumns": [
+        0,
+        1,
+        2,
+        3,
+        4,
+        5,
+        6
+    ],
+    "pgTitle": "",
+    "numDataRows": 13,
+    "secondTitle": "",
+    "numHeaderRows": 1,
+    "caption": "Bus schedule",
+    "data": [
+        [
+            "07:40 AM",
+            "07:35 AM"
+        ],
+        [
+            "03:33 PM",
+            " "
+        ],
+        [
+            "04:13 PM",
+            "04:07 PM"
+        ],
+        [
+            "08:02 AM",
+            "07:59 AM"
+        ],
+        [
+            "03:24 PM",
+            "03:19 PM"
+        ],
+        [
+            "07:32 AM",
+            "07:26 AM"
+        ],
+        [
+            "05:06 PM",
+            "05:00 PM"
+        ],
+        [
+            "08:03 AM",
+            " "
+        ],
+        [
+            "04:08 PM",
+            " "
+        ],
+        [
+            "11:13 AM",
+            " "
+        ],
+        [
+            "05:19 PM",
+            " "
+        ],
+        [
+            "06:30 PM",
+            "06:24 PM"
+        ],
+        [
+            "08:30 AM",
+            "08:24 AM"
+        ]
+    ],
+    "table_array": [
+        "Quincy Center Bus Station",
+        "Hancock St & Walter J Hannon Pkwy",
+        [
+            "07:40 AM",
+            "07:35 AM"
+        ],
+        [
+            "03:33 PM",
+            " "
+        ],
+        [
+            "04:13 PM",
+            "04:07 PM"
+        ],
+        [
+            "08:02 AM",
+            "07:59 AM"
+        ],
+        [
+            "03:24 PM",
+            "03:19 PM"
+        ],
+        [
+            "07:32 AM",
+            "07:26 AM"
+        ],
+        [
+            "05:06 PM",
+            "05:00 PM"
+        ],
+        [
+            "08:03 AM",
+            " "
+        ],
+        [
+            "04:08 PM",
+            " "
+        ],
+        [
+            "11:13 AM",
+            " "
+        ],
+        [
+            "05:19 PM",
+            " "
+        ],
+        [
+            "06:30 PM",
+            "06:24 PM"
+        ],
+        [
+            "08:30 AM",
+            "08:24 AM"
+        ]
+    ]
+}

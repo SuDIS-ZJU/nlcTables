@@ -1,0 +1,132 @@
+{
+    "title": [
+        "Washington St & Broad St",
+        "Commercial St Opp Brookside Rd"
+    ],
+    "numCols": 3,
+    "numericColumns": [],
+    "dateColumns": [
+        0,
+        1,
+        2,
+        3,
+        4,
+        5,
+        6
+    ],
+    "pgTitle": "",
+    "numDataRows": 13,
+    "secondTitle": "",
+    "numHeaderRows": 1,
+    "caption": "Bus schedule",
+    "data": [
+        [
+            "11:57 PM",
+            "11:58 PM"
+        ],
+        [
+            "06:59 PM",
+            "07:00 PM"
+        ],
+        [
+            " ",
+            " "
+        ],
+        [
+            "10:52 AM",
+            "10:54 AM"
+        ],
+        [
+            "05:39 PM",
+            "05:40 PM"
+        ],
+        [
+            "05:30 AM",
+            "05:31 AM"
+        ],
+        [
+            "04:40 PM",
+            "04:41 PM"
+        ],
+        [
+            "10:02 PM",
+            "10:03 PM"
+        ],
+        [
+            "08:08 AM",
+            "08:10 AM"
+        ],
+        [
+            "08:40 AM",
+            "08:42 AM"
+        ],
+        [
+            "02:36 PM",
+            "02:38 PM"
+        ],
+        [
+            "03:12 PM",
+            "03:13 PM"
+        ],
+        [
+            "01:25 PM",
+            "01:27 PM"
+        ]
+    ],
+    "table_array": [
+        "Washington St & Broad St",
+        "Commercial St Opp Brookside Rd",
+        [
+            "11:57 PM",
+            "11:58 PM"
+        ],
+        [
+            "06:59 PM",
+            "07:00 PM"
+        ],
+        [
+            " ",
+            " "
+        ],
+        [
+            "10:52 AM",
+            "10:54 AM"
+        ],
+        [
+            "05:39 PM",
+            "05:40 PM"
+        ],
+        [
+            "05:30 AM",
+            "05:31 AM"
+        ],
+        [
+            "04:40 PM",
+            "04:41 PM"
+        ],
+        [
+            "10:02 PM",
+            "10:03 PM"
+        ],
+        [
+            "08:08 AM",
+            "08:10 AM"
+        ],
+        [
+            "08:40 AM",
+            "08:42 AM"
+        ],
+        [
+            "02:36 PM",
+            "02:38 PM"
+        ],
+        [
+            "03:12 PM",
+            "03:13 PM"
+        ],
+        [
+            "01:25 PM",
+            "01:27 PM"
+        ]
+    ]
+}
