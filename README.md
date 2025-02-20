@@ -3,15 +3,16 @@
 </div>
 
 <p align="center">
-  <a href="#-community">Task Definition</a> •
-  <a href="#-struct">Dataset construction framewok</a> •
+  <a href="#-Definitio">Task Definition</a> •
+  <a href="#-construction">Dataset construction framewok</a> •
   <a href="#-getstart">GettingStart</a> •
-  <a href="#-quickstart">Dataset</a> •
+  <a href="#-Dataset">Dataset</a> •
   <a href="#-result">Result</a> •
 </p>
 
 We introduce a new practical scenario, **NL-conditional table discovery (nlcTD)**, where users specify both a query tableand additional requirements expressed in natural language (NL), and we provide the corresponding automated and highly configurable dataset construction framework and a large-scale dataset.  
 
+<span id="-community"></span>
 ## Task Definition
 
 Definition 1 (NL-conditional Table Discovery). Given a table repository $\mathcal{T}$, and a user query $Q$ consisting of a query table $T^q$ and an NL request $L$, the nlcTD task aims to retrieve from $\mathcal{T}$ a top-k ranked list of tables $\mathcal{T}' = \{ T_i \}$ that are semantically relevant to both $T^q$ and $L$, as determined by a relevance scoring function, $\rho(T^q, L, T_i)$.
