@@ -10,7 +10,14 @@
   <a href="#-result">Result</a> •
 </p>
 
-We introduce a new practical scenario, **NL-conditional table discovery (nlcTD)**, where users specify both a query table and additional requirements expressed in natural language (NL), and we provide the corresponding automated and highly configurable dataset construction framework and a large-scale dataset.  
+<div align="center">
+    <img src="images/F1.png" width="500px">
+    <p style="font-size: 20px; font-weight: bold; margin-top: 10px;">Figure 1: Table Copilot: a typical nlcTD scenario.</p>
+</div>
+</div>
+<br>
+
+We introduce a new practical scenario, **NL-conditional table discovery (nlcTD)**, where users specify both a query table and additional requirements expressed in natural language (NL), and we provide the corresponding automated and highly configurable dataset construction framework and a large-scale dataset. Figure 1 depicts TableCopilot, a future paradigm of table discovery we envision, that serves as an interactive agent understanding both tables and natural language. 
 
 <span id="-Definition"></span>
 ## Task Definition
@@ -18,17 +25,23 @@ We introduce a new practical scenario, **NL-conditional table discovery (nlcTD)*
 Definition 1 (NL-conditional Table Discovery). Given a table repository $\mathcal{T}$, and a user query $Q$ consisting of a query table $T^q$ and an NL request $L$, the nlcTD task aims to retrieve from $\mathcal{T}$ a top-k ranked list of tables $\mathcal{T}'$ = { $T_i$ } that are semantically relevant to both $T^q$ and $L$, as determined by a relevance scoring function, $\rho(T^q,L,T_i)$.
 <br>
 
-<div align="center">
-    <img src="images/F1.png" width="1000px">
-    <p style="font-size: 20px; font-weight: bold; margin-top: 10px;">Figure 1: Illustration of NL-conditional table discovery: Combining the query table with NL conditions (e.g., high-English-GPA students) enables more precise table retrieval.</p>
-</div>
-</div>
-<br>
+Example 1. Imagine a teacher analyzing students’ performance
+with an existing table containing information like student ID, name,
+and major (as shown in Figure 2). If he directly uses this table to
+search for related tables, the system might return many matches with
+varying content (e.g., table ⑥ includes students’ habits), making it
+challenging to find desired tables. At this point, if a condition can
+be added upon the original table (such as “I want a table that can
+be unioned with the original table and includes students with a high
+grade.”), the retrieved tables will better satisfy user needs and thus
+reducing user selection efforts.
 
 <div align="center">
-    <img src="images/F2.png" width="1000px">
-    <p style="font-size: 20px; font-weight: bold; margin-top: 10px;"> Figure 2: Illustration of NL-conditional table discovery: Combining the query table with NL conditions (e.g., high-Maths-
-grade students) enables more precise table retrieval.</p>
+    <img src="images/F2.png" width="500px">
+    <p style="font-size: 20px; font-weight: bold; margin-top: 10px; white-space: nowrap; overflow: hidden; text-overflow: ellipsis;">
+        Figure 2: Illustration of NL-conditional table discovery.
+    </p>
+    <p style="font-size: 20px; font-weight: bold; margin-top: 10px;"> </p>
 </div>
 <br>
 
