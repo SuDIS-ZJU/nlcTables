@@ -106,8 +106,19 @@ with large average size and includes 21,200 labeled GTs. The more detailed stati
 
 <span id="-getstart"></span>
 ## GettingStart
-This is an example of how to construct your own nlcTD datasets.
+This is an example of how to construct your own nlcTD datasets. Remember to change the file paths.
 
+### Quick Start
+
+1. Generate NL-conditional unionable table search dataset.
 ```sh
 python union.py
 ```
+
+2. Generate NL-conditional joinable table search dataset.
+```sh
+python join.py
+```
+
+### Change hyper-parameter to generate your own nlcTD dataset.
+
