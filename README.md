@@ -165,10 +165,11 @@ python join.py
         ]
     ]
 }
-```sh
+```
 
 
-2. Change hyper-parameter
+2. Change hyper-parameter. we have constructed several splitting fuction based on our taxonomy, for example the theme query at table level has the split_theme_table function. You can change these parameter when you call these functions.
+
 ```sh
 def split_theme_table(index, json_file, query_folder, datalake_folder, query_txt, groundtruth_txt, ori_minRow=10, max_duplicate=0.1, min_split_rate=0.2, template_num=3, shuffle=1, neg_num = 10,pos_num = 5):
-```sh
+```
