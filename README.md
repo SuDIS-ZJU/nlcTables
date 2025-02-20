@@ -39,7 +39,9 @@ grade students) enables more precise table retrieval.</p>
     <p style="font-size: 20px; font-weight: bold; margin-top: 10px;"> Figure 3: The taxonomy of nlcTD, consisting of 16 NL condition subcategories along with their illustrative examples.</p>
 </div>
 <br>
- 
+
+
+<span id="-construction"></span>
 ## Dataset construction framewok
 As depicted in Figure 4, the construction process consists of three
 main stages. First, we collect a large and diverse set of tables and
@@ -59,12 +61,9 @@ real SQL use cases contained in the Spider dataset.
 <br>
 
 
-## Dataset construction framewok
 
 
-
-
-
+<span id="-Dataset"></span>
 ## Dataset 
 Our nlcTables supports NL-only table search (nlcTables_K), NL-conditional table union search (nlcTables-U), and NL-conditional table join search (nlcTables-J). 
 <div align="center">
