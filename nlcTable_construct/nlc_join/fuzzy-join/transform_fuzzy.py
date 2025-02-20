@@ -5,10 +5,10 @@ import json
 from openai import OpenAI
 
 client = OpenAI(
-    base_url="https://api.xiaoai.plus/v1",
-    api_key="sk-zxQPjRNR374gmUsA5cFfEbFd7c37408a83118f3598C53c06",
+    base_url="api link",
+    api_key="your key",
     http_client=httpx.Client(
-        base_url="https://api.xiaoai.plus/v1",
+        base_url="api link",
         follow_redirects=True,
     ),
 )
