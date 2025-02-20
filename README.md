@@ -120,5 +120,15 @@ python union.py
 python join.py
 ```
 
-### Change hyper-parameter to generate your own nlcTD dataset.
+### How to generate your own nlcTD dataset?
 
+1. Use your own original table for splitting. You have to change your table into json file.
+```sh
+def split_theme_table(index, json_file, query_folder, datalake_folder, query_txt, groundtruth_txt, ori_minRow=10, max_duplicate=0.1, min_split_rate=0.2, template_num=3, shuffle=1, neg_num = 10,pos_num = 5):
+```sh
+
+
+Change hyper-parameter
+```sh
+def split_theme_table(index, json_file, query_folder, datalake_folder, query_txt, groundtruth_txt, ori_minRow=10, max_duplicate=0.1, min_split_rate=0.2, template_num=3, shuffle=1, neg_num = 10,pos_num = 5):
+```sh
