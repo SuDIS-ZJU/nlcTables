@@ -4,9 +4,9 @@
 
 <p align="center">
   <a href="#-Definition">Task Definition</a> •
-  <a href="#-construction">Dataset construction framewok</a> •
-  <a href="#-getstart">GettingStart</a> •
+  <a href="#-construction">Dataset construction framewok</a> • 
   <a href="#-Dataset">Dataset</a> •
+  <a href="#-getstart">GettingStart</a> •
   <a href="#-result">Result</a> •
 </p>
 
@@ -45,7 +45,16 @@ reducing user selection efforts.
 </div>
 <br>
 
-
+Figure 3 provides an overview of the nlcTD taxonomy with illus-
+trative examples of NL conditions. We begin by treating keyword-
+based table search as a simplified case of nlcTD, extending it to
+form a single category. Next, we extend query-table-based search
+by adding NL conditions, creating two advanced categories: NL-
+conditional table union search targets rows, while NL-conditional
+table join search focuses on identifying relevant columns. Each
+category features distinct NL requests. Furthermore, we classify NL
+conditions based on table granularity into three levels: table-level,
+column-level, and mixed-mode conditions.
 
 <div align="center">
     <img src="images/F3.jpeg" width="1000px">
@@ -78,12 +87,9 @@ real SQL use cases contained in the Spider dataset.
 
 <span id="-Dataset"></span>
 ## Dataset 
-Our nlcTables supports NL-only table search (nlcTables_K), NL-conditional table union search (nlcTables-U), and NL-conditional table join search (nlcTables-J). 
-<div align="center">
-    <img src="images/stats.jpeg" width="1000px">
-    <p style="font-size: 20px; font-weight: bold; margin-top: 10px;"> </p>
-</div>
-
+Our nlcTables supports NL-only table search (nlcTables_K), NL-conditional table union search (nlcTables-U), and NL-conditional table join search (nlcTables-J). For union and join tasks, fuzzy versions (nlcTables-U-fz and nlcTables-J-fz) are provided using
+semantic augmentation. You can download these five datasets in Table 1. In total, nlcTables contains 22,080 tables
+with large average size and includes 21,200 labeled GTs. The more detailed statistics are shown in Table 2.
 
 |                 Datasets                    | Queries |
 | :-----------------------------------------: | :-----------------------------------------: | 
@@ -93,3 +99,15 @@ Our nlcTables supports NL-only table search (nlcTables_K), NL-conditional table 
 |NL-conditional table join search (nlcTables-J)|       [Download](https://drive.google.com/drive/folders/1lfmfYzDii2C4StZjKJhSdPg94dypuvJJ?usp=drive_link)       |  
 |nlcTables-U-fz|       [Download](https://drive.google.com/drive/folders/10MLJg4Vu08i8NKFfyLBVbQpc3RX806PR?usp=drive_link)       |     
 
+<div align="center">
+    <img src="images/stats.jpeg" width="1000px">
+    <p style="font-size: 20px; font-weight: bold; margin-top: 10px;"> </p>
+</div>
+
+<span id="-getstart"></span>
+## GettingStart
+This is an example of how to construct your own nlcTD datasets.
+
+```sh
+python union.py
+```
