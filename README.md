@@ -3,19 +3,19 @@
 </div>
 
 <p align="center">
-  <a href="#-Definitio">Task Definition</a> •
+  <a href="#-Definition">Task Definition</a> •
   <a href="#-construction">Dataset construction framewok</a> •
   <a href="#-getstart">GettingStart</a> •
   <a href="#-Dataset">Dataset</a> •
   <a href="#-result">Result</a> •
 </p>
 
-We introduce a new practical scenario, **NL-conditional table discovery (nlcTD)**, where users specify both a query tableand additional requirements expressed in natural language (NL), and we provide the corresponding automated and highly configurable dataset construction framework and a large-scale dataset.  
+We introduce a new practical scenario, **NL-conditional table discovery (nlcTD)**, where users specify both a query table and additional requirements expressed in natural language (NL), and we provide the corresponding automated and highly configurable dataset construction framework and a large-scale dataset.  
 
-<span id="-community"></span>
+<span id="-Definition"></span>
 ## Task Definition
 
-Definition 1 (NL-conditional Table Discovery). Given a table repository $\mathcal{T}$, and a user query $Q$ consisting of a query table $T^q$ and an NL request $L$, the nlcTD task aims to retrieve from $\mathcal{T}$ a top-k ranked list of tables $\mathcal{T}' = \{ T_i \}$ that are semantically relevant to both $T^q$ and $L$, as determined by a relevance scoring function, $\rho(T^q, L, T_i)$.
+Definition 1 (NL-conditional Table Discovery). Given a table repository $\mathcal{T}$, and a user query $Q$ consisting of a query table $T^q$ and an NL request $L$, the nlcTD task aims to retrieve from $\mathcal{T}$ a top-k ranked list of tables $\mathcal{T}'$ = { $T_i$ } that are semantically relevant to both $T^q$ and $L$, as determined by a relevance scoring function, $\rho(T^q,L,T_i)$.
 <br>
 
 <div align="center">
@@ -42,7 +42,7 @@ grade students) enables more precise table retrieval.</p>
 
 
 <span id="-construction"></span>
-## Dataset construction framewok
+## Dataset construction framework
 As depicted in Figure 4, the construction process consists of three
 main stages. First, we collect a large and diverse set of tables and
 apply filtering to obtain high-quality original tables. Next, we adopt
