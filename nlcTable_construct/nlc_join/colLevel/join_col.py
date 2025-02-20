@@ -222,7 +222,7 @@ def split_col_table(index, json_file, query_folder, datalake_folder, query_txt, 
                 with open(groundtruth_txt, 'a', encoding='utf-8') as gt_txt:
                     gt_txt.write(f"{index}\t0\t{neg_datalake_name_nojson}\t0\n")
                 # 写入deepjoin.csv
-                data_row = [query_name, neg_datalake_name, titles[target_col_index], titles[target_col_index], 1]
+                data_row = [query_name, neg_datalake_name, titles[target_col_index], titles[target_col_index], 0]
                 with open('Join1/all/deepjoin.csv', 'a', encoding='utf-8') as gt_csv:
                     writer = csv.writer(gt_csv)
                     writer.writerow(data_row)
