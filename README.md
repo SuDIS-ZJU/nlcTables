@@ -91,7 +91,7 @@ Our nlcTables supports NL-only table search (nlcTables_K), NL-conditional table 
 semantic augmentation. You can download these five datasets in Table 1. In total, nlcTables contains 22,080 tables
 with large average size and includes 21,200 labeled GTs. The more detailed statistics are shown in Table 2.
 
-|                 Datasets                    | Queries |
+|                 Datasets                    | Download |
 | :-----------------------------------------: | :-----------------------------------------: | 
 |NL-only table search (nlcTables_K)|        [Download](https://drive.google.com/drive/folders/1EsIwoBAHJXmlNoJWO50BSevJDbaj-653?usp=drive_link)     |
 |NL-conditional table union search (nlcTables-U)|       [Download](https://drive.google.com/drive/folders/1uvAEzvNl6F_mW_ygv2ciJzY39WWrbg1A?usp=drive_link)       |    
