@@ -12,7 +12,7 @@ with large average size and includes 21,200 labeled GTs. The more detailed stati
 |nlcTables-U-fz|       [Download](https://drive.google.com/drive/folders/10MLJg4Vu08i8NKFfyLBVbQpc3RX806PR?usp=drive_link)       |     
 
 <div align="center">
-    <img src="images/stats.jpeg" width="1000px">
+    <img src="../images/stats.jpeg" width="1000px">
     <p style="font-size: 20px; font-weight: bold; margin-top: 10px;"> </p>
 </div>
 
