@@ -24,7 +24,7 @@
 
 <span id="-getstart"></span>
 
-## 🐳 Getting Started
+## Getting Started
 
 This is an example of how to set up deepjoin locally. To get a local copy up, running follow these simple example steps.
 
@@ -47,7 +47,7 @@ pip install -r requirements.txt
 
 <span id="-quickstart"></span>
 
-## 🐠 Instruction
+## Instruction
 
 Deepjoin is easy to use and extend. Going through the bellowing examples will help you familiar with Deepjoin for detailed instructions, evaluate an existing join/union algorithm on your own dataset, or developing new join/union algorithms.
 
