@@ -16,3 +16,28 @@ with large average size and includes 21,200 labeled GTs. The more detailed stati
     <p style="font-size: 20px; font-weight: bold; margin-top: 10px;"> </p>
 </div>
 
+## 📧 Folder Structure
+
+
+
+```
+.     
+| 
+├─── nlcTable_join_example                  # join dataset                
+| ├─── datalake                             # table repository
+| ├─── query                                # query tables
+| ├─── joincol.csv                          # gt with join key
+| ├─── qtrel-test.txt                       # gt without join key
+| └─── queries-test.txt                     # queries
+| 
+├─── nlcTable_union_example              # union dataset               
+| ├─── datalake                             # table repository
+| ├─── query                                # query tables
+| ├─── qtrel-test.txt                       # gt without join key
+| └─── queries-test.txt                     # queries
+| 
+└─── README.md
+```
+
+<br>
+
