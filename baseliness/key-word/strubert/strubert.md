@@ -38,6 +38,7 @@ for nlc-join data preparation
 python keyword_based_table_retrieval/transform_data.py
 ```
 
+run main.py 
 ```bash
 cd keyword_based_table_retrieval/
 chmod +x trec_eval
