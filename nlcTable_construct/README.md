@@ -1,5 +1,4 @@
-<span id="-getstart"></span>
-## GettingStart
+:hammer:## GettingStart
 This is an example of how to construct your own nlcTD datasets. Remember to change the file paths.
 
 ### Quick Start
