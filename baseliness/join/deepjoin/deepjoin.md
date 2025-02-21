@@ -1,40 +1,4 @@
-<div align= "center">
-    <h1> DeepJoin: Joinable Table Discovery with Pre-trained Language Models</h1>
-</div>
-<p align="center">
-  <a href="#-community">Community</a> •
-  <a href="#-struct">Folder Structure</a> •
-  <a href="#-getstart">GettingStart</a> •
-  <a href="#-quickstart">QuickStart</a> •
-  <a href="#-result">Result</a> •
-</p>
-
-
-
-
-<br>
-
-<div align="center">
-<img src="img/deepjoin.jpg" width="1000px">
-</div>
-<br>
-
-🌊  Our solution is an embeddingbased retrieval, which employs a pre-trained language model (PLM) and is designed as one framework serving both equi- and semantic (with a similarity condition on word embeddings) joins for textual attributes with fairly small cardinalities. We propose a set of contextualization options to transform column contents to a text sequence. The PLM reads the sequence and is fine-tuned to embed columns to vectors such that columns are expected to be joinable if they are close to each other in the vector space. Since the output of the PLM is fixed in length, the subsequent search procedure becomes independent of the column size. With a state-of-the-art approximate nearest neighbor search algorithm, the search time is sublinear in the repository size. To train the model, we devise the techniques for preparing training data as well as data augmentation. The experiments on real datasets demonstrate that by training on a small subset of a corpus, DeepJoin generalizes to large datasets and its precision consistently outperforms other approximate solutions'.DeepJoin is even more accurate than an exact solution to semantic joins when evaluated with labels from experts. Moreover, when equipped with a GPU, DeepJoin is up to two orders of magnitude faster than existing solutions
-<span id="-community"></span>
-
-## 👫 Community
-
-We deeply appreciate the invaluable effort contributed by our dedicated team of developers, supportive users, and esteemed industry partners.
-
-- [Massachusetts Institute of Technology](https://www.mit.edu/)
-- [Beijing Institute of Technology](https://english.bit.edu.cn/)
-- [Hong Kong University of Science and Technology](https://www.hkust-gz.edu.cn/)
-- [Apache Flink](https://flink.apache.org/)
-- [Intel](https://www.intel.com/)
-
-<span id="-struct"></span>
-
-## 📧 Folder Structure
+## Folder Structure
 
 
 
@@ -106,6 +70,7 @@ python deepjoin_train.py --dataset opendata --opendata all-mpnet-base-v2 --model
 **Step3: infer**
 
 ```sh
+python dataprocess/dataset_to_sentecnces.py
 python deepjoin_infer.py 
 -- dataset [choose task, str] [opendata, webtable]
 --datafile [infer_tables_file ,str]
