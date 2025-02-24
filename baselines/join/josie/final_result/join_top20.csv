@@ -1,0 +1,1138 @@
+query_table,candidate_table,query_column,candidate_column
+q_table_118_j1_3.json,dl_table_118_j1_3_3_n_16.json,Opponent,Opponent
+q_table_118_j1_3.json,dl_table_118_j1_3_1_n_15.json,Opponent,Opponent
+q_table_118_j1_3.json,dl_table_118_j1_3_1_n_14.json,Opponent,Opponent
+q_table_118_j1_3.json,dl_table_118_j1_3_3_n_17.json,Opponent,Opponent
+q_table_118_j1_3.json,dl_table_118_j1_3_2_n_14.json,Opponent,Opponent
+q_table_118_j1_3.json,dl_table_75_j1_3_3_n_6.json,Opponent,Team
+q_table_118_j1_3.json,dl_table_75_j1_3_1_n_5.json,Opponent,Team
+q_table_118_j1_3.json,dl_table_118_j1_3_1.json,Opponent,Opponent
+q_table_118_j1_3.json,dl_table_118_j1_3_2_n_18.json,Opponent,Opponent
+q_table_118_j1_3.json,dl_table_118_j1_3_3.json,Opponent,Opponent
+q_table_118_j1_3.json,dl_table_152_j1_1_1_n_10.json,Opponent,First
+q_table_118_j1_3.json,dl_table_152_j1_1_3_n_9.json,Opponent,First
+q_table_118_j1_3.json,dl_table_152_j1_1_2_n_10.json,Opponent,First
+q_table_118_j1_3.json,dl_table_152_j1_1_3_n_10.json,Opponent,First
+q_table_118_j1_3.json,dl_table_152_j1_1_2_n_8.json,Opponent,First
+q_table_118_j1_3.json,dl_table_118_j1_3_2_n_13.json,Opponent,Opponent
+q_table_118_j1_3.json,dl_table_118_j1_3_2_n_15.json,Opponent,Opponent
+q_table_118_j1_3.json,dl_table_118_j1_3_3_n_15.json,Opponent,Opponent
+q_table_118_j1_3.json,dl_table_118_j1_3_2_n_16.json,Opponent,Opponent
+q_table_118_j1_3.json,dl_table_118_j1_3_2_n_17.json,Opponent,Opponent
+q_table_60_j3_2.json,dl_table_60_j3_2.json,Change Details,Change Details
+q_table_60_j3_2.json,dl_table_60_j3_2_n_20.json,Change Details,Change Details
+q_table_60_j3_2.json,dl_table_60_j3_2_n_23.json,Change Details,Change Details
+q_table_60_j3_2.json,dl_table_60_j3_2_n_22.json,Change Details,Change Details
+q_table_60_j3_2.json,dl_table_60_j3_2_n_17.json,Change Details,Change Details
+q_table_60_j3_2.json,dl_table_60_j3_2_n_19.json,Change Details,Change Details
+q_table_60_j3_2.json,dl_table_60_j3_2_n_18.json,Change Details,Change Details
+q_table_60_j3_2.json,dl_table_60_j3_2_n_24.json,Change Details,Change Details
+q_table_110_j1_3.json,dl_table_110_j1_3_3.json,Postcode,Postcode
+q_table_110_j1_3.json,dl_table_110_j1_3_2.json,Postcode,Postcode
+q_table_110_j1_3.json,dl_table_110_j1_3_1.json,Postcode,Postcode
+q_table_110_j1_3.json,dl_table_110_j1_2_1.json,Postcode,Postcode
+q_table_110_j1_3.json,dl_table_110_j1_2_3.json,Postcode,Postcode
+q_table_110_j1_3.json,dl_table_110_j1_3_2_n_16.json,Postcode,Postcode
+q_table_110_j1_3.json,dl_table_110_j1_2_2.json,Postcode,Postcode
+q_table_110_j1_3.json,dl_table_110_j1_3_1_n_15.json,Postcode,Postcode
+q_table_110_j1_3.json,dl_table_110_j1_3_1_n_17.json,Postcode,Postcode
+q_table_110_j1_3.json,dl_table_110_j1_2_2_n_13.json,Postcode,Postcode
+q_table_110_j1_3.json,dl_table_110_j1_3_1_n_18.json,Postcode,Postcode
+q_table_110_j1_3.json,dl_table_110_j1_2_2_n_18.json,Postcode,Postcode
+q_table_110_j1_3.json,dl_table_110_j1_3_3_n_16.json,Postcode,Postcode
+q_table_110_j1_3.json,dl_table_110_j1_2_1_n_16.json,Postcode,Postcode
+q_table_110_j1_3.json,dl_table_110_j1_2_2_n_11.json,Postcode,Postcode
+q_table_110_j1_3.json,dl_table_110_j1_2_3_n_18.json,Postcode,Postcode
+q_table_110_j1_3.json,dl_table_110_j1_2_3_n_7.json,Postcode,Postcode
+q_table_110_j1_3.json,dl_table_110_j1_3_2_n_15.json,Postcode,Postcode
+q_table_110_j1_3.json,dl_table_110_j1_2_1_n_7.json,Postcode,Postcode
+q_table_110_j1_3.json,dl_table_110_j1_2_1_n_11.json,Postcode,Postcode
+q_table_110_j1_2.json,dl_table_110_j1_2_3.json,Postcode,Postcode
+q_table_110_j1_2.json,dl_table_110_j1_2_2.json,Postcode,Postcode
+q_table_110_j1_2.json,dl_table_110_j1_2_1.json,Postcode,Postcode
+q_table_110_j1_2.json,dl_table_110_j1_3_3.json,Postcode,Postcode
+q_table_110_j1_2.json,dl_table_110_j1_3_2_n_16.json,Postcode,Postcode
+q_table_110_j1_2.json,dl_table_110_j1_3_2.json,Postcode,Postcode
+q_table_110_j1_2.json,dl_table_110_j1_3_1.json,Postcode,Postcode
+q_table_110_j1_2.json,dl_table_110_j1_3_1_n_18.json,Postcode,Postcode
+q_table_110_j1_2.json,dl_table_110_j1_3_1_n_15.json,Postcode,Postcode
+q_table_110_j1_2.json,dl_table_110_j1_3_1_n_17.json,Postcode,Postcode
+q_table_110_j1_2.json,dl_table_110_j1_3_2_n_15.json,Postcode,Postcode
+q_table_110_j1_2.json,dl_table_110_j1_2_1_n_16.json,Postcode,Postcode
+q_table_110_j1_2.json,dl_table_110_j1_3_3_n_16.json,Postcode,Postcode
+q_table_110_j1_2.json,dl_table_110_j1_3_2_n_10.json,Postcode,Postcode
+q_table_110_j1_2.json,dl_table_110_j1_3_2_n_17.json,Postcode,Postcode
+q_table_110_j1_2.json,dl_table_110_j1_3_1_n_9.json,Postcode,Postcode
+q_table_110_j1_2.json,dl_table_110_j1_3_1_n_12.json,Postcode,Postcode
+q_table_110_j1_2.json,dl_table_110_j1_3_2_n_11.json,Postcode,Postcode
+q_table_110_j1_2.json,dl_table_110_j1_3_3_n_12.json,Postcode,Postcode
+q_table_110_j1_2.json,dl_table_110_j1_3_2_n_7.json,Postcode,Postcode
+q_table_12_j2_1.json,dl_table_12_j2_1_3.json,Enrollment,Enrollment
+q_table_12_j2_1.json,dl_table_12_j2_1_2.json,Enrollment,Enrollment
+q_table_12_j2_1.json,dl_table_12_j2_1_1.json,Enrollment,Enrollment
+q_table_24_j3_2.json,dl_table_24_j3_1_n_29.json,Player,Player
+q_table_24_j3_2.json,dl_table_24_j3_2.json,Player,Player
+q_table_24_j3_2.json,dl_table_24_j3_1_n_11.json,Player,Player
+q_table_24_j3_2.json,dl_table_24_j3_1_n_16.json,Player,Player
+q_table_24_j3_2.json,dl_table_24_j3_2_n_20.json,Player,Player
+q_table_24_j3_2.json,dl_table_24_j3_1_n_22.json,Player,Player
+q_table_24_j3_2.json,dl_table_24_j3_1_n_14.json,Player,Player
+q_table_24_j3_2.json,dl_table_24_j3_1_n_32.json,Player,Player
+q_table_24_j3_2.json,dl_table_24_j3_1_n_24.json,Player,Player
+q_table_24_j3_2.json,dl_table_24_j3_1_n_19.json,Player,Player
+q_table_24_j3_2.json,dl_table_24_j3_1_n_18.json,Player,Player
+q_table_24_j3_2.json,dl_table_24_j3_1_n_15.json,Player,Player
+q_table_24_j3_2.json,dl_table_24_j3_1_n_20.json,Player,Player
+q_table_24_j3_2.json,dl_table_24_j3_1_n_21.json,Player,Player
+q_table_24_j3_2.json,dl_table_24_j3_1.json,Player,Player
+q_table_24_j3_2.json,dl_table_24_j3_2_n_22.json,Player,Player
+q_table_24_j3_2.json,dl_table_24_j3_1_n_13.json,Player,Player
+q_table_24_j3_2.json,dl_table_24_j3_2_n_23.json,Player,Player
+q_table_24_j3_2.json,dl_table_24_j3_1_n_10.json,Player,Player
+q_table_24_j3_2.json,dl_table_24_j3_1_n_31.json,Player,Player
+q_table_24_j3_1.json,dl_table_24_j3_2_n_23.json,Player,Player
+q_table_24_j3_1.json,dl_table_24_j3_1_n_21.json,Player,Player
+q_table_24_j3_1.json,dl_table_24_j3_2_n_26.json,Player,Player
+q_table_24_j3_1.json,dl_table_24_j3_1.json,Player,Player
+q_table_24_j3_1.json,dl_table_24_j3_1_n_22.json,Player,Player
+q_table_24_j3_1.json,dl_table_24_j3_2_n_16.json,Player,Player
+q_table_24_j3_1.json,dl_table_24_j3_2_n_10.json,Player,Player
+q_table_24_j3_1.json,dl_table_24_j3_2_n_30.json,Player,Player
+q_table_24_j3_1.json,dl_table_24_j3_2_n_11.json,Player,Player
+q_table_24_j3_1.json,dl_table_24_j3_2.json,Player,Player
+q_table_24_j3_1.json,dl_table_24_j3_1_n_20.json,Player,Player
+q_table_24_j3_1.json,dl_table_24_j3_2_n_13.json,Player,Player
+q_table_24_j3_1.json,dl_table_24_j3_2_n_12.json,Player,Player
+q_table_24_j3_1.json,dl_table_24_j3_2_n_20.json,Player,Player
+q_table_24_j3_1.json,dl_table_24_j3_1_n_19.json,Player,Player
+q_table_24_j3_1.json,dl_table_24_j3_2_n_27.json,Player,Player
+q_table_24_j3_1.json,dl_table_24_j3_2_n_15.json,Player,Player
+q_table_24_j3_1.json,dl_table_24_j3_2_n_31.json,Player,Player
+q_table_24_j3_1.json,dl_table_24_j3_1_n_24.json,Player,Player
+q_table_24_j3_1.json,dl_table_24_j3_1_n_18.json,Player,Player
+q_table_142_j3_1.json,dl_table_142_j3_1.json,Word,Word
+q_table_142_j3_1.json,dl_table_142_j3_1_n_22.json,Word,Word
+q_table_142_j3_1.json,dl_table_142_j3_1_n_23.json,Word,Word
+q_table_142_j3_1.json,dl_table_142_j3_1_n_24.json,Word,Word
+q_table_6_j2_1.json,dl_table_6_j2_1_2.json,Date,Date
+q_table_6_j2_1.json,dl_table_6_j2_1_1.json,Date,Date
+q_table_6_j2_1.json,dl_table_6_j2_1_3.json,Date,Date
+q_table_13_j3_2.json,dl_table_13_j3_2_n_19.json,Purpose of trip,Purpose of trip
+q_table_13_j3_2.json,dl_table_13_j3_2.json,Purpose of trip,Purpose of trip
+q_table_13_j3_2.json,dl_table_13_j3_1_n_19.json,Purpose of trip,Purpose of trip
+q_table_13_j3_2.json,dl_table_13_j3_1_n_23.json,Purpose of trip,Purpose of trip
+q_table_13_j3_2.json,dl_table_13_j3_1.json,Purpose of trip,Purpose of trip
+q_table_13_j3_2.json,dl_table_13_j3_2_n_22.json,Purpose of trip,Purpose of trip
+q_table_13_j3_2.json,dl_table_13_j3_2_n_21.json,Purpose of trip,Purpose of trip
+q_table_13_j3_2.json,dl_table_13_j3_1_n_9.json,Purpose of trip,Purpose of trip
+q_table_13_j3_2.json,dl_table_13_j3_1_n_13.json,Purpose of trip,Purpose of trip
+q_table_13_j3_2.json,dl_table_13_j3_1_n_15.json,Purpose of trip,Purpose of trip
+q_table_13_j3_2.json,dl_table_13_j3_1_n_32.json,Purpose of trip,Purpose of trip
+q_table_13_j3_2.json,dl_table_13_j3_2_n_23.json,Purpose of trip,Purpose of trip
+q_table_13_j3_2.json,dl_table_13_j3_1_n_30.json,Purpose of trip,Purpose of trip
+q_table_13_j3_2.json,dl_table_13_j3_1_n_12.json,Purpose of trip,Purpose of trip
+q_table_13_j3_2.json,dl_table_13_j3_2_n_17.json,Purpose of trip,Purpose of trip
+q_table_13_j3_2.json,dl_table_13_j3_1_n_14.json,Purpose of trip,Purpose of trip
+q_table_13_j3_2.json,dl_table_13_j3_1_n_16.json,Purpose of trip,Purpose of trip
+q_table_13_j3_2.json,dl_table_13_j3_1_n_27.json,Purpose of trip,Purpose of trip
+q_table_13_j3_2.json,dl_table_13_j3_2_n_20.json,Purpose of trip,Purpose of trip
+q_table_13_j3_2.json,dl_table_13_j3_1_n_29.json,Purpose of trip,Purpose of trip
+q_table_13_j3_1.json,dl_table_13_j3_2_n_32.json,Purpose of trip,Purpose of trip
+q_table_13_j3_1.json,dl_table_13_j3_2_n_26.json,Purpose of trip,Purpose of trip
+q_table_13_j3_1.json,dl_table_13_j3_1.json,Purpose of trip,Purpose of trip
+q_table_13_j3_1.json,dl_table_13_j3_1_n_23.json,Purpose of trip,Purpose of trip
+q_table_13_j3_1.json,dl_table_13_j3_2.json,Purpose of trip,Purpose of trip
+q_table_13_j3_1.json,dl_table_13_j3_2_n_11.json,Purpose of trip,Purpose of trip
+q_table_13_j3_1.json,dl_table_13_j3_1_n_19.json,Purpose of trip,Purpose of trip
+q_table_13_j3_1.json,dl_table_13_j3_2_n_10.json,Purpose of trip,Purpose of trip
+q_table_13_j3_1.json,dl_table_13_j3_2_n_29.json,Purpose of trip,Purpose of trip
+q_table_13_j3_1.json,dl_table_13_j3_2_n_27.json,Purpose of trip,Purpose of trip
+q_table_13_j3_1.json,dl_table_13_j3_2_n_15.json,Purpose of trip,Purpose of trip
+q_table_13_j3_1.json,dl_table_13_j3_2_n_16.json,Purpose of trip,Purpose of trip
+q_table_13_j3_1.json,dl_table_13_j3_2_n_9.json,Purpose of trip,Purpose of trip
+q_table_13_j3_1.json,dl_table_13_j3_2_n_23.json,Purpose of trip,Purpose of trip
+q_table_13_j3_1.json,dl_table_13_j3_2_n_31.json,Purpose of trip,Purpose of trip
+q_table_13_j3_1.json,dl_table_13_j3_2_n_13.json,Purpose of trip,Purpose of trip
+q_table_13_j3_1.json,dl_table_13_j3_2_n_21.json,Purpose of trip,Purpose of trip
+q_table_13_j3_1.json,dl_table_13_j3_2_n_17.json,Purpose of trip,Purpose of trip
+q_table_13_j3_1.json,dl_table_13_j3_2_n_20.json,Purpose of trip,Purpose of trip
+q_table_13_j3_1.json,dl_table_13_j3_2_n_22.json,Purpose of trip,Purpose of trip
+q_table_50_j1_3.json,dl_table_50_j1_3_1.json,Title,Title
+q_table_50_j1_3.json,dl_table_50_j1_3_3.json,Title,Title
+q_table_50_j1_3.json,dl_table_50_j1_3_2.json,Title,Title
+q_table_50_j1_3.json,dl_table_50_j1_3_1_n_16.json,Title,Title
+q_table_50_j1_3.json,dl_table_50_j1_3_1_n_13.json,Title,Title
+q_table_50_j1_3.json,dl_table_50_j1_3_1_n_17.json,Title,Title
+q_table_50_j1_3.json,dl_table_50_j1_3_1_n_18.json,Title,Title
+q_table_50_j1_3.json,dl_table_50_j1_3_2_n_13.json,Title,Title
+q_table_50_j1_3.json,dl_table_50_j1_3_3_n_16.json,Title,Title
+q_table_50_j1_3.json,dl_table_50_j1_3_2_n_18.json,Title,Title
+q_table_50_j1_3.json,dl_table_50_j1_3_2_n_17.json,Title,Title
+q_table_50_j1_3.json,dl_table_50_j1_3_3_n_15.json,Title,Title
+q_table_50_j1_3.json,dl_table_50_j1_3_2_n_14.json,Title,Title
+q_table_50_j1_3.json,dl_table_50_j1_3_1_n_15.json,Title,Title
+q_table_50_j1_3.json,dl_table_50_j1_3_2_n_16.json,Title,Title
+q_table_68_j2_1.json,dl_table_68_j2_1_1.json,Function,Function
+q_table_68_j2_1.json,dl_table_68_j2_1_3.json,Function,Function
+q_table_68_j2_1.json,dl_table_68_j2_1_2.json,Function,Function
+q_table_68_j2_1.json,dl_table_37_j1_3_3_n_14.json,Function,Function
+q_table_68_j2_1.json,dl_table_37_j1_3_3_n_13.json,Function,Function
+q_table_68_j2_1.json,dl_table_37_j1_3_2_n_18.json,Function,Function
+q_table_68_j2_1.json,dl_table_37_j1_3_2_n_16.json,Function,Function
+q_table_68_j2_1.json,dl_table_37_j1_3_2_n_15.json,Function,Function
+q_table_68_j2_1.json,dl_table_37_j1_3_2_n_8.json,Function,Function
+q_table_68_j2_1.json,dl_table_37_j1_3_3_n_9.json,Function,Function
+q_table_68_j2_1.json,dl_table_37_j1_3_3_n_12.json,Function,Function
+q_table_68_j2_1.json,dl_table_37_j1_3_1_n_8.json,Function,Function
+q_table_68_j2_1.json,dl_table_37_j1_3_3_n_7.json,Function,Function
+q_table_68_j2_1.json,dl_table_37_j1_3_1_n_12.json,Function,Function
+q_table_68_j2_1.json,dl_table_37_j1_3_1_n_11.json,Function,Function
+q_table_68_j2_1.json,dl_table_37_j1_3_3_n_11.json,Function,Function
+q_table_68_j2_1.json,dl_table_37_j1_3_2_n_9.json,Function,Function
+q_table_68_j2_1.json,dl_table_37_j1_3_1_n_10.json,Function,Function
+q_table_68_j2_1.json,dl_table_37_j1_3_2_n_7.json,Function,Function
+q_table_68_j2_1.json,dl_table_37_j1_3_1_n_18.json,Function,Function
+q_table_100_j3_2.json,dl_table_100_j3_2.json,Key,Key
+q_table_100_j3_2.json,dl_table_100_j3_2_n_17.json,Key,Key
+q_table_100_j3_2.json,dl_table_100_j3_2_n_23.json,Key,Key
+q_table_100_j3_2.json,dl_table_100_j3_2_n_22.json,Key,Key
+q_table_100_j3_2.json,dl_table_100_j3_2_n_18.json,Key,Key
+q_table_100_j3_2.json,dl_table_100_j3_2_n_24.json,Key,Key
+q_table_155_j1_3.json,dl_table_155_j1_3_3.json,Last Name,Last Name
+q_table_155_j1_3.json,dl_table_155_j1_3_2.json,Last Name,Last Name
+q_table_155_j1_3.json,dl_table_155_j1_3_1.json,Last Name,Last Name
+q_table_155_j1_3.json,dl_table_152_j1_1_3_n_3.json,Last Name,Last
+q_table_155_j1_3.json,dl_table_152_j1_1_1_n_2.json,Last Name,Last
+q_table_155_j1_3.json,dl_table_152_j1_1_3_n_2.json,Last Name,Last
+q_table_155_j1_3.json,dl_table_152_j1_1_2_n_8.json,Last Name,Last
+q_table_155_j1_3.json,dl_table_152_j1_1_3_n_4.json,Last Name,Last
+q_table_155_j1_3.json,dl_table_152_j1_1_1.json,Last Name,Last
+q_table_155_j1_3.json,dl_table_152_j1_1_2.json,Last Name,Last
+q_table_155_j1_3.json,dl_table_152_j1_1_1_n_12.json,Last Name,Last
+q_table_155_j1_3.json,dl_table_152_j1_1_2_n_11.json,Last Name,Last
+q_table_155_j1_3.json,dl_table_152_j1_1_3.json,Last Name,Last
+q_table_155_j1_3.json,dl_table_155_j1_3_3_n_17.json,Last Name,Last Name
+q_table_155_j1_3.json,dl_table_155_j1_3_1_n_16.json,Last Name,Last Name
+q_table_155_j1_3.json,dl_table_155_j1_3_2_n_14.json,Last Name,Last Name
+q_table_155_j1_3.json,dl_table_155_j1_3_3_n_14.json,Last Name,Last Name
+q_table_155_j1_3.json,dl_table_155_j1_3_1_n_14.json,Last Name,Last Name
+q_table_155_j1_3.json,dl_table_155_j1_3_3_n_18.json,Last Name,Last Name
+q_table_155_j1_3.json,dl_table_155_j1_3_2_n_13.json,Last Name,Last Name
+q_table_93_j3_2.json,dl_table_93_j1_2_2_n_12.json,Class Title,Class Title
+q_table_93_j3_2.json,dl_table_93_j1_2_2_n_13.json,Class Title,Class Title
+q_table_93_j3_2.json,dl_table_93_j1_2_1_n_17.json,Class Title,Class Title
+q_table_93_j3_2.json,dl_table_93_j1_2_2.json,Class Title,Class Title
+q_table_93_j3_2.json,dl_table_93_j1_2_2_n_8.json,Class Title,Class Title
+q_table_93_j3_2.json,dl_table_93_j1_2_2_n_10.json,Class Title,Class Title
+q_table_93_j3_2.json,dl_table_93_j3_2_n_24.json,Class Title,Class Title
+q_table_93_j3_2.json,dl_table_93_j3_2.json,Class Title,Class Title
+q_table_93_j3_2.json,dl_table_93_j1_2_1.json,Class Title,Class Title
+q_table_93_j3_2.json,dl_table_93_j1_2_3_n_13.json,Class Title,Class Title
+q_table_93_j3_2.json,dl_table_93_j3_2_n_17.json,Class Title,Class Title
+q_table_93_j3_2.json,dl_table_93_j3_2_n_22.json,Class Title,Class Title
+q_table_93_j3_2.json,dl_table_93_j1_2_1_n_7.json,Class Title,Class Title
+q_table_93_j3_2.json,dl_table_93_j1_2_1_n_8.json,Class Title,Class Title
+q_table_93_j3_2.json,dl_table_93_j1_2_1_n_15.json,Class Title,Class Title
+q_table_93_j3_2.json,dl_table_93_j1_2_1_n_11.json,Class Title,Class Title
+q_table_93_j3_2.json,dl_table_93_j1_2_3_n_17.json,Class Title,Class Title
+q_table_93_j3_2.json,dl_table_93_j1_2_3_n_11.json,Class Title,Class Title
+q_table_93_j3_2.json,dl_table_93_j3_2_n_23.json,Class Title,Class Title
+q_table_93_j3_2.json,dl_table_93_j3_2_n_21.json,Class Title,Class Title
+q_table_93_j1_2.json,dl_table_93_j3_2_n_10.json,Class Title,Class Title
+q_table_93_j1_2.json,dl_table_93_j1_2_1_n_15.json,Class Title,Class Title
+q_table_93_j1_2.json,dl_table_93_j1_2_3_n_13.json,Class Title,Class Title
+q_table_93_j1_2.json,dl_table_93_j3_2_n_12.json,Class Title,Class Title
+q_table_93_j1_2.json,dl_table_93_j1_2_3.json,Class Title,Class Title
+q_table_93_j1_2.json,dl_table_93_j1_2_2.json,Class Title,Class Title
+q_table_93_j1_2.json,dl_table_93_j1_2_1.json,Class Title,Class Title
+q_table_93_j1_2.json,dl_table_93_j3_2.json,Class Title,Class Title
+q_table_93_j1_2.json,dl_table_93_j3_2_n_23.json,Class Title,Class Title
+q_table_93_j1_2.json,dl_table_93_j1_2_3_n_17.json,Class Title,Class Title
+q_table_93_j1_2.json,dl_table_93_j3_2_n_11.json,Class Title,Class Title
+q_table_93_j1_2.json,dl_table_93_j3_2_n_15.json,Class Title,Class Title
+q_table_93_j1_2.json,dl_table_93_j3_2_n_22.json,Class Title,Class Title
+q_table_93_j1_2.json,dl_table_93_j3_2_n_21.json,Class Title,Class Title
+q_table_93_j1_2.json,dl_table_93_j3_2_n_28.json,Class Title,Class Title
+q_table_93_j1_2.json,dl_table_93_j1_2_1_n_17.json,Class Title,Class Title
+q_table_93_j1_2.json,dl_table_93_j1_2_2_n_13.json,Class Title,Class Title
+q_table_93_j1_2.json,dl_table_93_j3_2_n_24.json,Class Title,Class Title
+q_table_93_j1_2.json,dl_table_93_j3_2_n_31.json,Class Title,Class Title
+q_table_93_j1_2.json,dl_table_93_j3_2_n_27.json,Class Title,Class Title
+q_table_37_j1_3.json,dl_table_37_j1_3_2.json,Function,Function
+q_table_37_j1_3.json,dl_table_37_j1_3_1.json,Function,Function
+q_table_37_j1_3.json,dl_table_37_j1_3_3.json,Function,Function
+q_table_37_j1_3.json,dl_table_37_j1_3_2_n_18.json,Function,Function
+q_table_37_j1_3.json,dl_table_37_j1_3_3_n_14.json,Function,Function
+q_table_37_j1_3.json,dl_table_37_j1_3_3_n_13.json,Function,Function
+q_table_37_j1_3.json,dl_table_37_j1_3_2_n_15.json,Function,Function
+q_table_37_j1_3.json,dl_table_37_j1_3_1_n_17.json,Function,Function
+q_table_37_j1_3.json,dl_table_37_j1_3_2_n_13.json,Function,Function
+q_table_37_j1_3.json,dl_table_37_j1_3_3_n_15.json,Function,Class
+q_table_37_j1_3.json,dl_table_37_j1_3_2.json,Function,Class
+q_table_37_j1_3.json,dl_table_37_j1_3_2_n_6.json,Function,Class
+q_table_37_j1_3.json,dl_table_37_j1_3_1_n_3.json,Function,Class
+q_table_37_j1_3.json,dl_table_37_j1_3_3_n_13.json,Function,Class
+q_table_37_j1_3.json,dl_table_37_j1_3_1_n_13.json,Function,Class
+q_table_37_j1_3.json,dl_table_37_j1_3_1_n_10.json,Function,Class
+q_table_37_j1_3.json,dl_table_37_j1_3_3_n_17.json,Function,Class
+q_table_37_j1_3.json,dl_table_37_j1_3_1_n_14.json,Function,Function
+q_table_37_j1_3.json,dl_table_37_j1_3_2_n_16.json,Function,Function
+q_table_37_j1_3.json,dl_table_37_j1_3_2_n_17.json,Function,Function
+q_table_125_j2_1.json,dl_table_125_j2_1_2.json,Description,Description
+q_table_125_j2_1.json,dl_table_125_j2_1_3.json,Description,Description
+q_table_125_j2_1.json,dl_table_125_j2_1_1.json,Description,Description
+q_table_125_j2_1.json,dl_table_125_j2_1_2_n_19.json,Description,Price US$
+q_table_125_j2_1.json,dl_table_125_j2_1_1_n_11.json,Description,Price US$
+q_table_125_j2_1.json,dl_table_125_j2_1_2_n_12.json,Description,Price US$
+q_table_125_j2_1.json,dl_table_125_j2_1_1_n_16.json,Description,Price US$
+q_table_125_j2_1.json,dl_table_152_j1_1_1_n_2.json,Description,Date of Death
+q_table_125_j2_1.json,dl_table_152_j1_1_1_n_3.json,Description,Date of Death
+q_table_125_j2_1.json,dl_table_152_j1_1_3_n_3.json,Description,Date of Death
+q_table_125_j2_1.json,dl_table_152_j1_1_3_n_1.json,Description,Date of Death
+q_table_125_j2_1.json,dl_table_125_j2_1_2_n_20.json,Description,Price US$
+q_table_125_j2_1.json,dl_table_125_j2_1_3_n_17.json,Description,Case
+q_table_125_j2_1.json,dl_table_125_j2_1_1_n_10.json,Description,Case
+q_table_125_j2_1.json,dl_table_125_j2_1_2_n_8.json,Description,Price US$
+q_table_125_j2_1.json,dl_table_125_j2_1_3_n_24.json,Description,Case
+q_table_125_j2_1.json,dl_table_125_j2_1_3_n_13.json,Description,Case
+q_table_125_j2_1.json,dl_table_125_j2_1_2_n_8.json,Description,Case
+q_table_125_j2_1.json,dl_table_125_j2_1_2_n_20.json,Description,Case
+q_table_125_j2_1.json,dl_table_125_j2_1_1_n_24.json,Description,Brand
+q_table_90_j3_2.json,dl_table_146_j2_1_1_n_13.json,Score_3,Field18
+q_table_90_j3_2.json,dl_table_90_j3_2.json,Score_3,Score_3
+q_table_90_j3_2.json,dl_table_90_j3_2_n_2.json,Score_3,Score_4
+q_table_90_j3_2.json,dl_table_90_j3_2_n_7.json,Score_3,Score_4
+q_table_90_j3_2.json,dl_table_144_j1_2_3_n_9.json,Score_3,Actual Cost (Â£)
+q_table_90_j3_2.json,dl_table_144_j3_2_n_7.json,Score_3,Actual Cost (Â£)
+q_table_90_j3_2.json,dl_table_144_j3_2_n_5.json,Score_3,Actual Cost (Â£)
+q_table_90_j3_2.json,dl_table_144_j1_2_2_n_16.json,Score_3,Actual Cost (Â£)
+q_table_90_j3_2.json,dl_table_144_j1_2_1.json,Score_3,Gross Cost (Â£)
+q_table_90_j3_2.json,dl_table_144_j3_2.json,Score_3,Actual Cost (Â£)
+q_table_90_j3_2.json,dl_table_144_j1_2_1.json,Score_3,Actual Cost (Â£)
+q_table_90_j3_2.json,dl_table_144_j1_2_3.json,Score_3,Gross Cost (Â£)
+q_table_90_j3_2.json,dl_table_144_j1_2_3.json,Score_3,Actual Cost (Â£)
+q_table_90_j3_2.json,dl_table_62_j3_2_n_10.json,Score_3,$
+q_table_90_j3_2.json,dl_table_144_j3_2.json,Score_3,Gross Cost (Â£)
+q_table_90_j3_2.json,dl_table_62_j3_1.json,Score_3,$K
+q_table_90_j3_2.json,dl_table_62_j3_1.json,Score_3,$
+q_table_90_j3_2.json,dl_table_62_j3_2_n_30.json,Score_3,$
+q_table_90_j3_2.json,dl_table_2_j2_1_3_n_7.json,Score_3,Time
+q_table_90_j3_2.json,dl_table_62_j3_2_n_10.json,Score_3,$/G
+q_table_106_j1_3.json,dl_table_106_j1_3_1_n_13.json,experience,experience
+q_table_106_j1_3.json,dl_table_106_j1_3_2.json,experience,experience
+q_table_106_j1_3.json,dl_table_106_j1_3_1.json,experience,experience
+q_table_106_j1_3.json,dl_table_106_j1_3_1_n_15.json,experience,experience
+q_table_106_j1_3.json,dl_table_106_j1_3_1_n_14.json,experience,experience
+q_table_106_j1_3.json,dl_table_106_j1_3_2_n_17.json,experience,experience
+q_table_106_j1_3.json,dl_table_106_j1_3_3.json,experience,experience
+q_table_106_j1_3.json,dl_table_106_j1_3_2_n_13.json,experience,experience
+q_table_106_j1_3.json,dl_table_106_j1_3_3_n_18.json,experience,experience
+q_table_106_j1_3.json,dl_table_106_j1_3_1_n_18.json,experience,experience
+q_table_49_j2_1.json,dl_table_49_j2_1_1.json,Original Query,Original Query
+q_table_49_j2_1.json,dl_table_49_j2_1_3.json,Original Query,Original Query
+q_table_49_j2_1.json,dl_table_49_j2_1_3_n_2.json,Original Query,Processed Query
+q_table_49_j2_1.json,dl_table_49_j2_1_2_n_6.json,Original Query,Processed Query
+q_table_49_j2_1.json,dl_table_49_j2_1_1_n_5.json,Original Query,Processed Query
+q_table_49_j2_1.json,dl_table_49_j2_1_1.json,Original Query,Processed Query
+q_table_49_j2_1.json,dl_table_49_j2_1_2.json,Original Query,Original Query
+q_table_49_j2_1.json,dl_table_49_j2_1_2.json,Original Query,Processed Query
+q_table_49_j2_1.json,dl_table_49_j2_1_2_n_4.json,Original Query,Formatted Query
+q_table_49_j2_1.json,dl_table_49_j2_1_3_n_5.json,Original Query,Formatted Query
+q_table_49_j2_1.json,dl_table_49_j2_1_3_n_5.json,Original Query,Processed Query
+q_table_49_j2_1.json,dl_table_49_j2_1_2_n_1.json,Original Query,Formatted Query
+q_table_49_j2_1.json,dl_table_49_j2_1_2.json,Original Query,Formatted Query
+q_table_49_j2_1.json,dl_table_49_j2_1_3.json,Original Query,Formatted Query
+q_table_49_j2_1.json,dl_table_49_j2_1_2_n_4.json,Original Query,Processed Query
+q_table_49_j2_1.json,dl_table_49_j2_1_2_n_2.json,Original Query,Processed Query
+q_table_49_j2_1.json,dl_table_49_j2_1_2_n_2.json,Original Query,Formatted Query
+q_table_49_j2_1.json,dl_table_49_j2_1_2_n_6.json,Original Query,Formatted Query
+q_table_49_j2_1.json,dl_table_49_j2_1_1.json,Original Query,Formatted Query
+q_table_49_j2_1.json,dl_table_49_j2_1_1_n_2.json,Original Query,Processed Query
+q_table_95_j1_3.json,dl_table_95_j1_3_1.json,tag_no,tag_no
+q_table_95_j1_3.json,dl_table_95_j1_3_2.json,tag_no,tag_no
+q_table_95_j1_3.json,dl_table_95_j1_3_2_n_14.json,tag_no,tag_no
+q_table_95_j1_3.json,dl_table_95_j1_3_3.json,tag_no,tag_no
+q_table_95_j1_3.json,dl_table_95_j1_3_2_n_16.json,tag_no,tag_no
+q_table_95_j1_3.json,dl_table_95_j1_3_1_n_18.json,tag_no,tag_no
+q_table_95_j1_3.json,dl_table_95_j1_3_3_n_15.json,tag_no,tag_no
+q_table_95_j1_3.json,dl_table_95_j1_3_1_n_16.json,tag_no,tag_no
+q_table_95_j1_3.json,dl_table_95_j1_3_3_n_14.json,tag_no,tag_no
+q_table_95_j1_3.json,dl_table_95_j1_3_2_n_17.json,tag_no,tag_no
+q_table_64_j3_2.json,dl_table_64_j3_2_n_17.json,Tournament / Lake,Tournament / Lake
+q_table_64_j3_2.json,dl_table_64_j3_2.json,Tournament / Lake,Tournament / Lake
+q_table_64_j3_2.json,dl_table_64_j3_2_n_23.json,Tournament / Lake,Tournament / Lake
+q_table_64_j3_2.json,dl_table_64_j3_2_n_19.json,Tournament / Lake,Tournament / Lake
+q_table_64_j3_2.json,dl_table_64_j3_2_n_21.json,Tournament / Lake,Tournament / Lake
+q_table_7_j1_1.json,dl_table_7_j1_1_3.json,Callsign,Callsign
+q_table_7_j1_1.json,dl_table_7_j1_1_2.json,Callsign,Callsign
+q_table_7_j1_1.json,dl_table_7_j1_1_1.json,Callsign,Callsign
+q_table_139_j2_1.json,dl_table_136_j3_2_n_29.json,Grade,Category
+q_table_139_j2_1.json,dl_table_91_j3_1_n_17.json,Grade,Programming_Language
+q_table_139_j2_1.json,dl_table_90_j3_2_n_8.json,Grade,Grade_1
+q_table_139_j2_1.json,dl_table_90_j3_2_n_8.json,Grade,Grade_2
+q_table_139_j2_1.json,dl_table_91_j1_3_1.json,Grade,Programming_Language
+q_table_139_j2_1.json,dl_table_91_j3_1_n_1.json,Grade,Programming_Language
+q_table_139_j2_1.json,dl_table_91_j3_1_n_20.json,Grade,Programming_Language
+q_table_139_j2_1.json,dl_table_90_j3_2_n_9.json,Grade,Grade_2
+q_table_139_j2_1.json,dl_table_71_j3_2_n_32.json,Grade,Pos
+q_table_139_j2_1.json,dl_table_139_j2_1_1.json,Grade,Grade
+q_table_139_j2_1.json,dl_table_139_j2_1_2.json,Grade,Grade
+q_table_139_j2_1.json,dl_table_139_j2_1_3.json,Grade,Grade
+q_table_139_j2_1.json,dl_table_139_j2_1_3.json,Grade,Generic Job Title
+q_table_139_j2_1.json,dl_table_139_j2_1_1_n_4.json,Grade,Generic Job Title
+q_table_139_j2_1.json,dl_table_139_j2_1_3_n_3.json,Grade,Generic Job Title
+q_table_139_j2_1.json,dl_table_139_j2_1_2.json,Grade,Generic Job Title
+q_table_139_j2_1.json,dl_table_139_j2_1_3_n_2.json,Grade,Generic Job Title
+q_table_139_j2_1.json,dl_table_139_j2_1_2_n_5.json,Grade,Generic Job Title
+q_table_139_j2_1.json,dl_table_139_j2_1_1_n_5.json,Grade,Generic Job Title
+q_table_139_j2_1.json,dl_table_139_j2_1_1.json,Grade,Generic Job Title
+q_table_29_j3_2.json,dl_table_29_j3_2_n_3.json,Function,Format
+q_table_29_j3_2.json,dl_table_29_j3_2.json,Function,Format
+q_table_29_j3_2.json,dl_table_29_j3_2_n_13.json,Function,Format
+q_table_29_j3_2.json,dl_table_29_j3_2_n_23.json,Function,Format
+q_table_29_j3_2.json,dl_table_29_j3_2_n_20.json,Function,Format
+q_table_29_j3_2.json,dl_table_29_j3_2_n_26.json,Function,Format
+q_table_29_j3_2.json,dl_table_29_j3_2_n_15.json,Function,Format
+q_table_29_j3_2.json,dl_table_29_j3_2_n_17.json,Function,Format
+q_table_29_j3_2.json,dl_table_29_j3_2_n_11.json,Function,Format
+q_table_29_j3_2.json,dl_table_29_j3_2.json,Function,Function
+q_table_29_j3_2.json,dl_table_29_j3_2_n_27.json,Function,Format
+q_table_29_j3_2.json,dl_table_29_j3_2_n_29.json,Function,Format
+q_table_29_j3_2.json,dl_table_29_j3_2_n_18.json,Function,Format
+q_table_29_j3_2.json,dl_table_29_j3_2_n_28.json,Function,Format
+q_table_29_j3_2.json,dl_table_29_j3_2_n_31.json,Function,Format
+q_table_29_j3_2.json,dl_table_29_j3_2_n_17.json,Function,Function
+q_table_29_j3_2.json,dl_table_29_j3_2_n_23.json,Function,Function
+q_table_29_j3_2.json,dl_table_29_j3_2_n_21.json,Function,Function
+q_table_29_j3_2.json,dl_table_29_j3_2_n_24.json,Function,Function
+q_table_29_j3_2.json,dl_table_29_j3_2_n_22.json,Function,Function
+q_table_46_j1_1.json,dl_table_46_j3_1_n_16.json,Course Title,Course Title
+q_table_46_j1_1.json,dl_table_46_j3_1_n_20.json,Course Title,Course Title
+q_table_46_j1_1.json,dl_table_46_j1_1_2.json,Course Title,Course Title
+q_table_46_j1_1.json,dl_table_46_j1_1_3.json,Course Title,Course Title
+q_table_46_j1_1.json,dl_table_46_j3_1_n_21.json,Course Title,Course Title
+q_table_46_j1_1.json,dl_table_46_j3_1.json,Course Title,Course Title
+q_table_46_j1_1.json,dl_table_46_j3_1_n_17.json,Course Title,Course Title
+q_table_46_j1_1.json,dl_table_46_j3_1_n_24.json,Course Title,Course Title
+q_table_46_j1_1.json,dl_table_46_j1_1_1.json,Course Title,Course Title
+q_table_46_j1_1.json,dl_table_46_j3_1_n_13.json,Course Title,Course Title
+q_table_46_j1_1.json,dl_table_46_j3_1_n_10.json,Course Title,Course Title
+q_table_46_j1_1.json,dl_table_46_j3_1_n_31.json,Course Title,Course Title
+q_table_46_j1_1.json,dl_table_46_j3_1_n_30.json,Course Title,Course Title
+q_table_46_j1_1.json,dl_table_46_j3_1_n_29.json,Course Title,Course Title
+q_table_46_j1_1.json,dl_table_46_j3_1_n_11.json,Course Title,Course Title
+q_table_46_j1_1.json,dl_table_46_j3_1_n_12.json,Course Title,Course Title
+q_table_46_j1_1.json,dl_table_46_j3_1_n_9.json,Course Title,Course Title
+q_table_46_j1_1.json,dl_table_46_j3_1_n_26.json,Course Title,Course Title
+q_table_46_j1_1.json,dl_table_46_j3_1_n_19.json,Course Title,Course Title
+q_table_46_j1_1.json,dl_table_46_j3_1_n_18.json,Course Title,Course Title
+q_table_46_j3_1.json,dl_table_46_j1_1_1.json,Course Title,Course Title
+q_table_46_j3_1.json,dl_table_46_j1_1_3_n_11.json,Course Title,Course Title
+q_table_46_j3_1.json,dl_table_46_j1_1_2_n_11.json,Course Title,Course Title
+q_table_46_j3_1.json,dl_table_46_j1_1_3_n_8.json,Course Title,Course Title
+q_table_46_j3_1.json,dl_table_46_j1_1_1_n_12.json,Course Title,Course Title
+q_table_46_j3_1.json,dl_table_46_j1_1_1_n_9.json,Course Title,Course Title
+q_table_46_j3_1.json,dl_table_46_j1_1_3_n_12.json,Course Title,Course Title
+q_table_46_j3_1.json,dl_table_46_j1_1_2_n_12.json,Course Title,Course Title
+q_table_46_j3_1.json,dl_table_46_j3_1.json,Course Title,Course Title
+q_table_46_j3_1.json,dl_table_46_j3_1_n_17.json,Course Title,Course Title
+q_table_46_j3_1.json,dl_table_46_j3_1_n_21.json,Course Title,Course Title
+q_table_46_j3_1.json,dl_table_46_j1_1_3.json,Course Title,Course Title
+q_table_46_j3_1.json,dl_table_46_j1_1_2_n_9.json,Course Title,Course Title
+q_table_46_j3_1.json,dl_table_46_j1_1_2.json,Course Title,Course Title
+q_table_46_j3_1.json,dl_table_46_j3_1_n_19.json,Course Title,Course Title
+q_table_46_j3_1.json,dl_table_46_j1_1_2_n_8.json,Course Title,Course Title
+q_table_46_j3_1.json,dl_table_46_j1_1_3_n_9.json,Course Title,Course Title
+q_table_46_j3_1.json,dl_table_46_j1_1_2_n_10.json,Course Title,Course Title
+q_table_46_j3_1.json,dl_table_46_j1_1_3_n_7.json,Course Title,Course Title
+q_table_46_j3_1.json,dl_table_46_j1_1_1_n_8.json,Course Title,Course Title
+q_table_17_j2_1.json,dl_table_17_j2_1_2.json,Addr1,Addr3
+q_table_17_j2_1.json,dl_table_17_j2_1_2.json,Addr1,Addr1
+q_table_17_j2_1.json,dl_table_17_j2_1_1.json,Addr1,Addr1
+q_table_17_j2_1.json,dl_table_17_j3_1_n_22.json,Addr1,Addr1
+q_table_17_j2_1.json,dl_table_17_j3_1_n_18.json,Addr1,Addr1
+q_table_17_j2_1.json,dl_table_17_j3_1_n_9.json,Addr1,Addr1
+q_table_17_j2_1.json,dl_table_17_j3_1.json,Addr1,Addr1
+q_table_17_j2_1.json,dl_table_17_j3_1_n_25.json,Addr1,Addr1
+q_table_17_j2_1.json,dl_table_17_j3_1_n_10.json,Addr1,Addr1
+q_table_17_j2_1.json,dl_table_17_j3_1_n_14.json,Addr1,Addr1
+q_table_17_j2_1.json,dl_table_17_j3_1_n_31.json,Addr1,Addr1
+q_table_17_j2_1.json,dl_table_17_j3_1_n_30.json,Addr1,Addr1
+q_table_17_j2_1.json,dl_table_17_j3_1_n_28.json,Addr1,Addr1
+q_table_17_j2_1.json,dl_table_17_j3_1_n_12.json,Addr1,Addr1
+q_table_17_j2_1.json,dl_table_17_j3_1_n_13.json,Addr1,Addr1
+q_table_17_j2_1.json,dl_table_17_j3_1_n_16.json,Addr1,Addr1
+q_table_17_j2_1.json,dl_table_17_j2_1_2_n_6.json,Addr1,Ratepayer
+q_table_17_j2_1.json,dl_table_17_j3_1_n_24.json,Addr1,Ratepayer
+q_table_17_j2_1.json,dl_table_17_j3_1_n_29.json,Addr1,Addr1
+q_table_17_j2_1.json,dl_table_17_j3_1_n_4.json,Addr1,Ratepayer
+q_table_17_j3_1.json,dl_table_17_j2_1_3_n_5.json,Addr1,Addr3
+q_table_17_j3_1.json,dl_table_17_j3_1_n_22.json,Addr1,Addr1
+q_table_17_j3_1.json,dl_table_17_j2_1_3_n_7.json,Addr1,Addr1
+q_table_17_j3_1.json,dl_table_17_j3_1_n_18.json,Addr1,Addr1
+q_table_17_j3_1.json,dl_table_17_j2_1_3.json,Addr1,Addr1
+q_table_17_j3_1.json,dl_table_17_j2_1_2_n_24.json,Addr1,Addr1
+q_table_17_j3_1.json,dl_table_17_j2_1_1_n_15.json,Addr1,Addr1
+q_table_17_j3_1.json,dl_table_17_j2_1_2.json,Addr1,Addr1
+q_table_17_j3_1.json,dl_table_17_j2_1_1.json,Addr1,Addr1
+q_table_17_j3_1.json,dl_table_17_j2_1_3_n_8.json,Addr1,Addr1
+q_table_17_j3_1.json,dl_table_17_j2_1_1_n_23.json,Addr1,Addr1
+q_table_17_j3_1.json,dl_table_17_j2_1_2_n_9.json,Addr1,Addr1
+q_table_17_j3_1.json,dl_table_17_j2_1_3_n_9.json,Addr1,Addr1
+q_table_17_j3_1.json,dl_table_17_j2_1_3_n_10.json,Addr1,Addr1
+q_table_17_j3_1.json,dl_table_17_j2_1_3_n_16.json,Addr1,Addr1
+q_table_17_j3_1.json,dl_table_17_j2_1_1_n_7.json,Addr1,Addr1
+q_table_17_j3_1.json,dl_table_17_j2_1_2_n_11.json,Addr1,Addr1
+q_table_17_j3_1.json,dl_table_17_j2_1_3_n_20.json,Addr1,Addr1
+q_table_17_j3_1.json,dl_table_17_j2_1_3_n_13.json,Addr1,Addr1
+q_table_17_j3_1.json,dl_table_17_j2_1_3_n_21.json,Addr1,Addr1
+q_table_144_j3_2.json,dl_table_144_j3_2.json,Gross Cost (Â£),Gross Cost (Â£)
+q_table_144_j3_2.json,dl_table_144_j1_2_2_n_18.json,Gross Cost (Â£),Gross Cost (Â£)
+q_table_144_j3_2.json,dl_table_144_j1_2_3_n_17.json,Gross Cost (Â£),Gross Cost (Â£)
+q_table_144_j3_2.json,dl_table_144_j3_2_n_7.json,Gross Cost (Â£),Actual Cost (Â£)
+q_table_144_j3_2.json,dl_table_144_j1_2_2_n_11.json,Gross Cost (Â£),Actual Cost (Â£)
+q_table_144_j3_2.json,dl_table_144_j1_2_1_n_7.json,Gross Cost (Â£),Gross Cost (Â£)
+q_table_144_j3_2.json,dl_table_144_j1_2_3.json,Gross Cost (Â£),Gross Cost (Â£)
+q_table_144_j3_2.json,dl_table_144_j1_2_2.json,Gross Cost (Â£),Gross Cost (Â£)
+q_table_144_j3_2.json,dl_table_144_j1_2_1.json,Gross Cost (Â£),Gross Cost (Â£)
+q_table_144_j3_2.json,dl_table_144_j1_2_1_n_12.json,Gross Cost (Â£),Gross Cost (Â£)
+q_table_144_j3_2.json,dl_table_144_j3_2_n_1.json,Gross Cost (Â£),Actual Cost (Â£)
+q_table_144_j3_2.json,dl_table_144_j1_2_1_n_10.json,Gross Cost (Â£),Actual Cost (Â£)
+q_table_144_j3_2.json,dl_table_144_j1_2_1_n_11.json,Gross Cost (Â£),Actual Cost (Â£)
+q_table_144_j3_2.json,dl_table_144_j1_2_3_n_8.json,Gross Cost (Â£),Actual Cost (Â£)
+q_table_144_j3_2.json,dl_table_144_j1_2_2_n_12.json,Gross Cost (Â£),Actual Cost (Â£)
+q_table_144_j3_2.json,dl_table_144_j1_2_3_n_16.json,Gross Cost (Â£),Actual Cost (Â£)
+q_table_144_j3_2.json,dl_table_144_j1_2_1_n_12.json,Gross Cost (Â£),Actual Cost (Â£)
+q_table_144_j3_2.json,dl_table_144_j1_2_3_n_9.json,Gross Cost (Â£),Actual Cost (Â£)
+q_table_144_j3_2.json,dl_table_144_j3_2_n_16.json,Gross Cost (Â£),Actual Cost (Â£)
+q_table_144_j3_2.json,dl_table_144_j3_2_n_10.json,Gross Cost (Â£),Actual Cost (Â£)
+q_table_144_j1_2.json,dl_table_95_j1_3_2_n_11.json,Gross Cost (Â£),price
+q_table_144_j1_2.json,dl_table_144_j1_2_2.json,Gross Cost (Â£),Gross Cost (Â£)
+q_table_144_j1_2.json,dl_table_144_j1_2_1.json,Gross Cost (Â£),Gross Cost (Â£)
+q_table_144_j1_2.json,dl_table_144_j1_2_2_n_13.json,Gross Cost (Â£),Gross Cost (Â£)
+q_table_144_j1_2.json,dl_table_144_j1_2_2_n_15.json,Gross Cost (Â£),Gross Cost (Â£)
+q_table_144_j1_2.json,dl_table_144_j1_2_3_n_15.json,Gross Cost (Â£),Gross Cost (Â£)
+q_table_144_j1_2.json,dl_table_144_j3_2_n_23.json,Gross Cost (Â£),Gross Cost (Â£)
+q_table_144_j1_2.json,dl_table_144_j3_2_n_21.json,Gross Cost (Â£),Gross Cost (Â£)
+q_table_144_j1_2.json,dl_table_144_j1_2_3_n_17.json,Gross Cost (Â£),Gross Cost (Â£)
+q_table_144_j1_2.json,dl_table_144_j3_2_n_12.json,Gross Cost (Â£),Gross Cost (Â£)
+q_table_144_j1_2.json,dl_table_144_j3_2_n_13.json,Gross Cost (Â£),Gross Cost (Â£)
+q_table_144_j1_2.json,dl_table_144_j3_2_n_9.json,Gross Cost (Â£),Gross Cost (Â£)
+q_table_144_j1_2.json,dl_table_144_j3_2_n_32.json,Gross Cost (Â£),Gross Cost (Â£)
+q_table_144_j1_2.json,dl_table_144_j3_2_n_16.json,Gross Cost (Â£),Gross Cost (Â£)
+q_table_144_j1_2.json,dl_table_144_j3_2_n_10.json,Gross Cost (Â£),Gross Cost (Â£)
+q_table_144_j1_2.json,dl_table_144_j3_2_n_30.json,Gross Cost (Â£),Gross Cost (Â£)
+q_table_144_j1_2.json,dl_table_144_j1_2_3_n_3.json,Gross Cost (Â£),Actual Cost (Â£)
+q_table_144_j1_2.json,dl_table_144_j1_2_2_n_15.json,Gross Cost (Â£),Actual Cost (Â£)
+q_table_144_j1_2.json,dl_table_144_j1_2_1_n_18.json,Gross Cost (Â£),Actual Cost (Â£)
+q_table_144_j1_2.json,dl_table_144_j1_2_1_n_13.json,Gross Cost (Â£),Actual Cost (Â£)
+q_table_75_j1_3.json,dl_table_75_j1_3_3_n_18.json,Win. Pct. Points,Win. Pct. Points
+q_table_75_j1_3.json,dl_table_75_j1_3_1.json,Win. Pct. Points,Win. Pct. Points
+q_table_75_j1_3.json,dl_table_75_j1_3_2.json,Win. Pct. Points,Win. Pct. Points
+q_table_75_j1_3.json,dl_table_75_j1_3_3.json,Win. Pct. Points,Win. Pct. Points
+q_table_75_j1_3.json,dl_table_144_j1_2_3_n_10.json,Win. Pct. Points,Gross Cost (Â£)
+q_table_75_j1_3.json,dl_table_144_j1_2_3_n_15.json,Win. Pct. Points,Gross Cost (Â£)
+q_table_75_j1_3.json,dl_table_144_j3_2_n_10.json,Win. Pct. Points,Gross Cost (Â£)
+q_table_75_j1_3.json,dl_table_144_j1_2_2_n_15.json,Win. Pct. Points,Gross Cost (Â£)
+q_table_75_j1_3.json,dl_table_144_j3_2_n_27.json,Win. Pct. Points,Gross Cost (Â£)
+q_table_75_j1_3.json,dl_table_144_j1_2_2_n_9.json,Win. Pct. Points,Gross Cost (Â£)
+q_table_75_j1_3.json,dl_table_144_j1_2_2_n_7.json,Win. Pct. Points,Gross Cost (Â£)
+q_table_75_j1_3.json,dl_table_144_j3_2_n_13.json,Win. Pct. Points,Gross Cost (Â£)
+q_table_75_j1_3.json,dl_table_144_j1_2_1_n_10.json,Win. Pct. Points,Gross Cost (Â£)
+q_table_75_j1_3.json,dl_table_144_j1_2_2_n_13.json,Win. Pct. Points,Gross Cost (Â£)
+q_table_75_j1_3.json,dl_table_144_j3_2_n_12.json,Win. Pct. Points,Gross Cost (Â£)
+q_table_75_j1_3.json,dl_table_144_j3_2_n_16.json,Win. Pct. Points,Gross Cost (Â£)
+q_table_75_j1_3.json,dl_table_75_j1_3_3_n_15.json,Win. Pct. Points,Win. Pct. Points
+q_table_75_j1_3.json,dl_table_75_j1_3_2_n_17.json,Win. Pct. Points,Win. Pct. Points
+q_table_75_j1_3.json,dl_table_75_j1_3_2_n_15.json,Win. Pct. Points,Win. Pct. Points
+q_table_75_j1_3.json,dl_table_75_j1_3_2_n_18.json,Win. Pct. Points,Win. Pct. Points
+q_table_102_j2_1.json,dl_table_14_j1_3_3_n_3.json,Jersey #,WELL NAME
+q_table_102_j2_1.json,dl_table_14_j1_3_2_n_17.json,Jersey #,WELL NAME
+q_table_102_j2_1.json,dl_table_14_j1_3_3_n_1.json,Jersey #,WELL NAME
+q_table_102_j2_1.json,dl_table_14_j1_3_1_n_16.json,Jersey #,WELL NAME
+q_table_102_j2_1.json,dl_table_14_j1_3_1.json,Jersey #,WELL NAME
+q_table_102_j2_1.json,dl_table_14_j1_3_2.json,Jersey #,WELL NAME
+q_table_102_j2_1.json,dl_table_14_j1_3_3_n_6.json,Jersey #,WELL NAME
+q_table_102_j2_1.json,dl_table_102_j2_1_2.json,Jersey #,Jersey #
+q_table_102_j2_1.json,dl_table_14_j1_3_2_n_13.json,Jersey #,WELL NAME
+q_table_102_j2_1.json,dl_table_102_j2_1_1.json,Jersey #,Jersey #
+q_table_102_j2_1.json,dl_table_102_j2_1_3.json,Jersey #,Jersey #
+q_table_102_j2_1.json,dl_table_14_j1_3_3_n_17.json,Jersey #,WELL NAME
+q_table_102_j2_1.json,dl_table_14_j1_3_3_n_5.json,Jersey #,WELL NAME
+q_table_102_j2_1.json,dl_table_14_j1_3_1_n_15.json,Jersey #,WELL NAME
+q_table_102_j2_1.json,dl_table_14_j1_3_1_n_6.json,Jersey #,WELL NAME
+q_table_102_j2_1.json,dl_table_14_j1_3_3_n_18.json,Jersey #,WELL NAME
+q_table_102_j2_1.json,dl_table_14_j1_3_2_n_15.json,Jersey #,WELL NAME
+q_table_102_j2_1.json,dl_table_14_j1_3_3_n_14.json,Jersey #,WELL NAME
+q_table_102_j2_1.json,dl_table_14_j1_3_3.json,Jersey #,WELL NAME
+q_table_102_j2_1.json,dl_table_14_j1_3_2_n_16.json,Jersey #,WELL NAME
+q_table_62_j3_2.json,dl_table_62_j3_1_n_24.json,$,$
+q_table_62_j3_2.json,dl_table_62_j3_2_n_22.json,$,$
+q_table_62_j3_2.json,dl_table_62_j3_2_n_19.json,$,$
+q_table_62_j3_2.json,dl_table_144_j1_2_2_n_15.json,$,Gross Cost (Â£)
+q_table_62_j3_2.json,dl_table_144_j1_2_1.json,$,Actual Cost (Â£)
+q_table_62_j3_2.json,dl_table_144_j1_2_3.json,$,Actual Cost (Â£)
+q_table_62_j3_2.json,dl_table_144_j1_2_3_n_15.json,$,Gross Cost (Â£)
+q_table_62_j3_2.json,dl_table_144_j3_2_n_5.json,$,Actual Cost (Â£)
+q_table_62_j3_2.json,dl_table_144_j3_2.json,$,Actual Cost (Â£)
+q_table_62_j3_2.json,dl_table_144_j1_2_3_n_3.json,$,Actual Cost (Â£)
+q_table_62_j3_2.json,dl_table_144_j1_2_2_n_16.json,$,Actual Cost (Â£)
+q_table_62_j3_2.json,dl_table_144_j3_2_n_7.json,$,Actual Cost (Â£)
+q_table_62_j3_2.json,dl_table_144_j1_2_3_n_9.json,$,Actual Cost (Â£)
+q_table_62_j3_2.json,dl_table_144_j3_2_n_10.json,$,Actual Cost (Â£)
+q_table_62_j3_2.json,dl_table_144_j3_2_n_19.json,$,Actual Cost (Â£)
+q_table_62_j3_2.json,dl_table_144_j1_2_1_n_2.json,$,Actual Cost (Â£)
+q_table_62_j3_2.json,dl_table_144_j1_2_3_n_16.json,$,Actual Cost (Â£)
+q_table_62_j3_2.json,dl_table_144_j1_2_2_n_18.json,$,Gross Cost (Â£)
+q_table_62_j3_2.json,dl_table_144_j1_2_2_n_17.json,$,Actual Cost (Â£)
+q_table_62_j3_2.json,dl_table_144_j3_2_n_1.json,$,Actual Cost (Â£)
+q_table_62_j3_1.json,dl_table_62_j3_1.json,$,$
+q_table_62_j3_1.json,dl_table_62_j3_1_n_24.json,$,$
+q_table_62_j3_1.json,dl_table_62_j3_1_n_21.json,$,$/G
+q_table_62_j3_1.json,dl_table_144_j1_2_2_n_18.json,$,Gross Cost (Â£)
+q_table_62_j3_1.json,dl_table_144_j3_2_n_1.json,$,Actual Cost (Â£)
+q_table_62_j3_1.json,dl_table_144_j3_2_n_7.json,$,Actual Cost (Â£)
+q_table_62_j3_1.json,dl_table_144_j3_2_n_10.json,$,Actual Cost (Â£)
+q_table_62_j3_1.json,dl_table_144_j1_2_3_n_9.json,$,Actual Cost (Â£)
+q_table_62_j3_1.json,dl_table_144_j1_2_1_n_2.json,$,Actual Cost (Â£)
+q_table_62_j3_1.json,dl_table_144_j3_2_n_19.json,$,Actual Cost (Â£)
+q_table_62_j3_1.json,dl_table_144_j1_2_3_n_16.json,$,Actual Cost (Â£)
+q_table_62_j3_1.json,dl_table_144_j3_2.json,$,Gross Cost (Â£)
+q_table_62_j3_1.json,dl_table_144_j1_2_2_n_15.json,$,Gross Cost (Â£)
+q_table_62_j3_1.json,dl_table_144_j1_2_3_n_15.json,$,Gross Cost (Â£)
+q_table_62_j3_1.json,dl_table_144_j1_2_1.json,$,Actual Cost (Â£)
+q_table_62_j3_1.json,dl_table_144_j3_2.json,$,Actual Cost (Â£)
+q_table_62_j3_1.json,dl_table_144_j3_2_n_5.json,$,Actual Cost (Â£)
+q_table_62_j3_1.json,dl_table_144_j1_2_3_n_3.json,$,Actual Cost (Â£)
+q_table_62_j3_1.json,dl_table_144_j1_2_3.json,$,Actual Cost (Â£)
+q_table_62_j3_1.json,dl_table_144_j1_2_2_n_16.json,$,Actual Cost (Â£)
+q_table_91_j1_3.json,dl_table_91_j3_1_n_16.json,Repo_URL,Repo_URL
+q_table_91_j1_3.json,dl_table_91_j3_1_n_10.json,Repo_URL,Repo_URL
+q_table_91_j1_3.json,dl_table_91_j3_1_n_15.json,Repo_URL,Repo_URL
+q_table_91_j1_3.json,dl_table_91_j1_3_2.json,Repo_URL,Repo_URL
+q_table_91_j1_3.json,dl_table_91_j1_3_2_n_15.json,Repo_URL,Repo_URL
+q_table_91_j1_3.json,dl_table_91_j3_1_n_24.json,Repo_URL,Repo_URL
+q_table_91_j1_3.json,dl_table_91_j3_1_n_18.json,Repo_URL,Repo_URL
+q_table_91_j1_3.json,dl_table_91_j1_3_3.json,Repo_URL,Repo_URL
+q_table_91_j1_3.json,dl_table_91_j3_1.json,Repo_URL,Repo_URL
+q_table_91_j1_3.json,dl_table_91_j1_3_1.json,Repo_URL,Repo_URL
+q_table_91_j1_3.json,dl_table_91_j1_3_1_n_18.json,Repo_URL,Repo_URL
+q_table_91_j1_3.json,dl_table_91_j1_3_3_n_18.json,Repo_URL,Repo_URL
+q_table_91_j1_3.json,dl_table_91_j3_1_n_32.json,Repo_URL,Repo_URL
+q_table_91_j1_3.json,dl_table_91_j3_1_n_11.json,Repo_URL,Repo_URL
+q_table_91_j1_3.json,dl_table_91_j3_1_n_14.json,Repo_URL,Repo_URL
+q_table_91_j1_3.json,dl_table_91_j3_1_n_9.json,Repo_URL,Repo_URL
+q_table_91_j1_3.json,dl_table_91_j3_1_n_21.json,Repo_URL,Repo_URL
+q_table_91_j1_3.json,dl_table_91_j1_3_1_n_15.json,Repo_URL,Repo_URL
+q_table_91_j1_3.json,dl_table_91_j1_3_2_n_18.json,Repo_URL,Repo_URL
+q_table_91_j1_3.json,dl_table_91_j1_3_1_n_13.json,Repo_URL,Repo_URL
+q_table_91_j3_1.json,dl_table_91_j1_3_3_n_13.json,Repo_URL,Repo_URL
+q_table_91_j3_1.json,dl_table_91_j1_3_2.json,Repo_URL,Repo_URL
+q_table_91_j3_1.json,dl_table_91_j1_3_1_n_13.json,Repo_URL,Repo_URL
+q_table_91_j3_1.json,dl_table_91_j1_3_2_n_18.json,Repo_URL,Repo_URL
+q_table_91_j3_1.json,dl_table_91_j1_3_3_n_9.json,Repo_URL,Repo_URL
+q_table_91_j3_1.json,dl_table_91_j1_3_2_n_9.json,Repo_URL,Repo_URL
+q_table_91_j3_1.json,dl_table_91_j1_3_1_n_8.json,Repo_URL,Repo_URL
+q_table_91_j3_1.json,dl_table_91_j1_3_3.json,Repo_URL,Repo_URL
+q_table_91_j3_1.json,dl_table_91_j1_3_1_n_18.json,Repo_URL,Repo_URL
+q_table_91_j3_1.json,dl_table_91_j1_3_1_n_9.json,Repo_URL,Repo_URL
+q_table_91_j3_1.json,dl_table_91_j1_3_1.json,Repo_URL,Repo_URL
+q_table_91_j3_1.json,dl_table_91_j1_3_1_n_12.json,Repo_URL,Repo_URL
+q_table_91_j3_1.json,dl_table_91_j3_1_n_18.json,Repo_URL,Repo_URL
+q_table_91_j3_1.json,dl_table_91_j1_3_2_n_12.json,Repo_URL,Repo_URL
+q_table_91_j3_1.json,dl_table_91_j1_3_3_n_11.json,Repo_URL,Repo_URL
+q_table_91_j3_1.json,dl_table_91_j1_3_3_n_12.json,Repo_URL,Repo_URL
+q_table_91_j3_1.json,dl_table_91_j1_3_3_n_7.json,Repo_URL,Repo_URL
+q_table_91_j3_1.json,dl_table_91_j1_3_1_n_10.json,Repo_URL,Repo_URL
+q_table_91_j3_1.json,dl_table_91_j3_1_n_21.json,Repo_URL,Repo_URL
+q_table_91_j3_1.json,dl_table_91_j1_3_1_n_15.json,Repo_URL,Repo_URL
+q_table_145_j1_3.json,dl_table_145_j3_1_n_19.json,Bapt-date,Bapt-date
+q_table_145_j1_3.json,dl_table_145_j3_1_n_11.json,Bapt-date,Bapt-date
+q_table_145_j1_3.json,dl_table_145_j1_3_1.json,Bapt-date,Bapt-date
+q_table_145_j1_3.json,dl_table_145_j1_3_2.json,Bapt-date,Bapt-date
+q_table_145_j1_3.json,dl_table_145_j1_3_3.json,Bapt-date,Bapt-date
+q_table_145_j1_3.json,dl_table_145_j1_3_1_n_13.json,Bapt-date,Bapt-date
+q_table_145_j1_3.json,dl_table_145_j1_3_3_n_15.json,Bapt-date,Bapt-date
+q_table_145_j1_3.json,dl_table_145_j1_3_2_n_18.json,Bapt-date,Bapt-date
+q_table_145_j1_3.json,dl_table_145_j1_3_1_n_15.json,Bapt-date,Bapt-date
+q_table_145_j1_3.json,dl_table_145_j1_3_1_n_18.json,Bapt-date,Bapt-date
+q_table_145_j1_3.json,dl_table_145_j1_3_2_n_13.json,Bapt-date,Bapt-date
+q_table_145_j1_3.json,dl_table_145_j1_3_3_n_18.json,Bapt-date,Bapt-date
+q_table_145_j1_3.json,dl_table_145_j3_1_n_15.json,Bapt-date,Bapt-date
+q_table_145_j1_3.json,dl_table_145_j3_1.json,Bapt-date,Bapt-date
+q_table_145_j1_3.json,dl_table_145_j1_3_1_n_14.json,Bapt-date,Bapt-date
+q_table_145_j1_3.json,dl_table_145_j3_1_n_13.json,Bapt-date,Bapt-date
+q_table_145_j1_3.json,dl_table_145_j3_1_n_18.json,Bapt-date,Bapt-date
+q_table_145_j1_3.json,dl_table_145_j1_3_2_n_17.json,Bapt-date,Bapt-date
+q_table_145_j1_3.json,dl_table_145_j3_1_n_27.json,Bapt-date,Bapt-date
+q_table_145_j1_3.json,dl_table_145_j1_3_3_n_16.json,Bapt-date,Bapt-date
+q_table_145_j3_1.json,dl_table_145_j1_3_3_n_16.json,Bapt-date,Bapt-date
+q_table_145_j3_1.json,dl_table_145_j1_3_1_n_18.json,Bapt-date,Bapt-date
+q_table_145_j3_1.json,dl_table_145_j1_3_1.json,Bapt-date,Bapt-date
+q_table_145_j3_1.json,dl_table_145_j1_3_2_n_18.json,Bapt-date,Bapt-date
+q_table_145_j3_1.json,dl_table_145_j3_1.json,Bapt-date,Bapt-date
+q_table_145_j3_1.json,dl_table_145_j1_3_3.json,Bapt-date,Bapt-date
+q_table_145_j3_1.json,dl_table_145_j1_3_3_n_18.json,Bapt-date,Bapt-date
+q_table_145_j3_1.json,dl_table_145_j1_3_2_n_13.json,Bapt-date,Bapt-date
+q_table_145_j3_1.json,dl_table_145_j3_1_n_19.json,Bapt-date,Bapt-date
+q_table_145_j3_1.json,dl_table_145_j1_3_2_n_7.json,Bapt-date,Bapt-date
+q_table_145_j3_1.json,dl_table_145_j1_3_3_n_15.json,Bapt-date,Bapt-date
+q_table_145_j3_1.json,dl_table_145_j1_3_2.json,Bapt-date,Bapt-date
+q_table_145_j3_1.json,dl_table_145_j1_3_2_n_10.json,Bapt-date,Bapt-date
+q_table_145_j3_1.json,dl_table_145_j1_3_3_n_7.json,Bapt-date,Bapt-date
+q_table_145_j3_1.json,dl_table_145_j1_3_1_n_15.json,Bapt-date,Bapt-date
+q_table_145_j3_1.json,dl_table_145_j1_3_1_n_13.json,Bapt-date,Bapt-date
+q_table_145_j3_1.json,dl_table_145_j3_1_n_24.json,Bapt-date,Bapt-date
+q_table_145_j3_1.json,dl_table_145_j1_3_1_n_14.json,Bapt-date,Bapt-date
+q_table_145_j3_1.json,dl_table_145_j3_1_n_18.json,Bapt-date,Bapt-date
+q_table_145_j3_1.json,dl_table_145_j1_3_1_n_12.json,Bapt-date,Bapt-date
+q_table_48_j2_1.json,dl_table_48_j2_1_3.json,Longitude,Longitude
+q_table_48_j2_1.json,dl_table_48_j2_1_2.json,Longitude,Longitude
+q_table_48_j2_1.json,dl_table_48_j2_1_1.json,Longitude,Longitude
+q_table_71_j3_2.json,dl_table_71_j3_2.json,Player,Player
+q_table_71_j3_2.json,dl_table_71_j3_1.json,Player,Player
+q_table_71_j3_2.json,dl_table_71_j3_1_n_18.json,Player,Player
+q_table_71_j3_2.json,dl_table_71_j3_2_n_24.json,Player,Player
+q_table_71_j3_2.json,dl_table_71_j3_1_n_23.json,Player,Player
+q_table_71_j3_2.json,dl_table_71_j3_1_n_24.json,Player,Player
+q_table_71_j3_2.json,dl_table_71_j3_2_n_17.json,Player,Player
+q_table_71_j3_2.json,dl_table_71_j3_2_n_18.json,Player,Player
+q_table_71_j3_2.json,dl_table_71_j3_1_n_11.json,Player,Player
+q_table_71_j3_2.json,dl_table_71_j3_1_n_9.json,Player,Player
+q_table_71_j3_2.json,dl_table_71_j3_1_n_31.json,Player,Player
+q_table_71_j3_2.json,dl_table_71_j3_1_n_14.json,Player,Player
+q_table_71_j3_2.json,dl_table_71_j3_1_n_22.json,Player,Player
+q_table_71_j3_2.json,dl_table_71_j3_1_n_27.json,Player,Player
+q_table_71_j3_2.json,dl_table_71_j3_1_n_21.json,Player,Player
+q_table_71_j3_2.json,dl_table_71_j3_2_n_23.json,Player,Player
+q_table_71_j3_2.json,dl_table_71_j3_1_n_16.json,Player,Player
+q_table_71_j3_2.json,dl_table_71_j3_1_n_10.json,Player,Player
+q_table_71_j3_2.json,dl_table_71_j3_1_n_30.json,Player,Player
+q_table_71_j3_1.json,dl_table_71_j3_1_n_18.json,Player,Player
+q_table_71_j3_1.json,dl_table_71_j3_2_n_27.json,Player,Player
+q_table_71_j3_1.json,dl_table_71_j3_2_n_9.json,Player,Player
+q_table_71_j3_1.json,dl_table_71_j3_2_n_23.json,Player,Player
+q_table_71_j3_1.json,dl_table_71_j3_1.json,Player,Player
+q_table_71_j3_1.json,dl_table_71_j3_2_n_17.json,Player,Player
+q_table_71_j3_1.json,dl_table_71_j3_2_n_12.json,Player,Player
+q_table_71_j3_1.json,dl_table_71_j3_1_n_24.json,Player,Player
+q_table_71_j3_1.json,dl_table_71_j3_2.json,Player,Player
+q_table_71_j3_1.json,dl_table_71_j3_2_n_11.json,Player,Player
+q_table_71_j3_1.json,dl_table_71_j3_1_n_23.json,Player,Player
+q_table_71_j3_1.json,dl_table_71_j3_2_n_24.json,Player,Player
+q_table_71_j3_1.json,dl_table_71_j3_1_n_22.json,Player,Player
+q_table_71_j3_1.json,dl_table_71_j3_2_n_25.json,Player,Player
+q_table_71_j3_1.json,dl_table_71_j3_2_n_18.json,Player,Player
+q_table_71_j3_1.json,dl_table_71_j3_2_n_15.json,Player,Player
+q_table_71_j3_1.json,dl_table_71_j3_2_n_30.json,Player,Player
+q_table_71_j3_1.json,dl_table_71_j3_2_n_31.json,Player,Player
+q_table_71_j3_1.json,dl_table_71_j3_2_n_10.json,Player,Player
+q_table_71_j3_1.json,dl_table_71_j3_2_n_26.json,Player,Player
+q_table_47_j1_1.json,dl_table_47_j1_1_1.json,Sample Size,Sample Size
+q_table_47_j1_1.json,dl_table_47_j1_1_2.json,Sample Size,Sample Size
+q_table_47_j1_1.json,dl_table_47_j1_1_3.json,Sample Size,Sample Size
+q_table_47_j1_1.json,dl_table_47_j1_1_3_n_3.json,Sample Size,[Labour_Party_(UK)| Labour ]
+q_table_47_j1_1.json,dl_table_47_j1_1_1_n_2.json,Sample Size,[Labour_Party_(UK)| Labour ]
+q_table_47_j1_1.json,dl_table_47_j1_1_2.json,Sample Size,Lead
+q_table_47_j1_1.json,dl_table_47_j1_1_1.json,Sample Size,Lead
+q_table_47_j1_1.json,dl_table_47_j1_1_3_n_3.json,Sample Size,[Liberal_Democrats| Liberal Democrats ]
+q_table_47_j1_1.json,dl_table_47_j1_1_3_n_3.json,Sample Size,Lead
+q_table_47_j1_1.json,dl_table_47_j1_1_3_n_4.json,Sample Size,[Liberal_Democrats| Liberal Democrats ]
+q_table_47_j1_1.json,dl_table_47_j1_1_1_n_2.json,Sample Size,Lead
+q_table_47_j1_1.json,dl_table_47_j1_1_3_n_3.json,Sample Size,[Conservative_Party_(UK)| Conservative ]
+q_table_47_j1_1.json,dl_table_47_j1_1_2.json,Sample Size,[Liberal_Democrats| Liberal Democrats ]
+q_table_47_j1_1.json,dl_table_47_j1_1_3_n_5.json,Sample Size,[Conservative_Party_(UK)| Conservative ]
+q_table_47_j1_1.json,dl_table_47_j1_1_1_n_2.json,Sample Size,[Liberal_Democrats| Liberal Democrats ]
+q_table_47_j1_1.json,dl_table_47_j1_1_3_n_4.json,Sample Size,[Conservative_Party_(UK)| Conservative ]
+q_table_47_j1_1.json,dl_table_47_j1_1_1.json,Sample Size,[Liberal_Democrats| Liberal Democrats ]
+q_table_47_j1_1.json,dl_table_47_j1_1_3_n_4.json,Sample Size,Polling Organisation/Client
+q_table_47_j1_1.json,dl_table_47_j1_1_3_n_5.json,Sample Size,Polling Organisation/Client
+q_table_47_j1_1.json,dl_table_47_j1_1_1_n_6.json,Sample Size,Lead
+q_table_121_j2_1.json,dl_table_121_j2_1_3.json,stars,stars
+q_table_121_j2_1.json,dl_table_121_j2_1_1.json,stars,stars
+q_table_121_j2_1.json,dl_table_121_j2_1_2.json,stars,stars
+q_table_78_j1_3.json,dl_table_78_j1_3_1_n_16.json,Behind Leader,Behind Leader
+q_table_78_j1_3.json,dl_table_78_j1_3_1_n_13.json,Behind Leader,Behind Leader
+q_table_78_j1_3.json,dl_table_78_j1_3_2.json,Behind Leader,Behind Leader
+q_table_78_j1_3.json,dl_table_78_j1_3_1.json,Behind Leader,Behind Leader
+q_table_78_j1_3.json,dl_table_78_j1_3_3.json,Behind Leader,Behind Leader
+q_table_78_j1_3.json,dl_table_78_j1_3_1_n_18.json,Behind Leader,Behind Leader
+q_table_78_j1_3.json,dl_table_78_j1_3_2.json,Behind Leader,Behind Next
+q_table_78_j1_3.json,dl_table_78_j1_3_3.json,Behind Leader,Behind Next
+q_table_78_j1_3.json,dl_table_78_j1_3_3_n_1.json,Behind Leader,Behind Next
+q_table_78_j1_3.json,dl_table_78_j1_3_3_n_6.json,Behind Leader,Behind Next
+q_table_78_j1_3.json,dl_table_78_j1_3_3_n_16.json,Behind Leader,Behind Leader
+q_table_78_j1_3.json,dl_table_78_j1_3_2_n_12.json,Behind Leader,Behind Next
+q_table_78_j1_3.json,dl_table_78_j1_3_2_n_14.json,Behind Leader,Behind Next
+q_table_78_j1_3.json,dl_table_78_j1_3_3_n_10.json,Behind Leader,Behind Next
+q_table_78_j1_3.json,dl_table_78_j1_3_2_n_10.json,Behind Leader,Behind Next
+q_table_78_j1_3.json,dl_table_78_j1_3_2_n_1.json,Behind Leader,Behind Next
+q_table_78_j1_3.json,dl_table_78_j1_3_3_n_13.json,Behind Leader,Behind Next
+q_table_78_j1_3.json,dl_table_78_j1_3_1_n_4.json,Behind Leader,Behind Next
+q_table_78_j1_3.json,dl_table_78_j1_3_1_n_13.json,Behind Leader,Behind Next
+q_table_31_j2_1.json,dl_table_31_j2_1_1.json,Amount,Amount
+q_table_31_j2_1.json,dl_table_31_j2_1_2.json,Amount,Amount
+q_table_31_j2_1.json,dl_table_31_j2_1_3.json,Amount,Amount
+q_table_31_j2_1.json,dl_table_144_j1_2_3_n_3.json,Amount,Actual Cost (Â£)
+q_table_31_j2_1.json,dl_table_144_j1_2_1_n_18.json,Amount,Actual Cost (Â£)
+q_table_31_j2_1.json,dl_table_144_j3_2.json,Amount,Actual Cost (Â£)
+q_table_31_j2_1.json,dl_table_144_j1_2_2_n_15.json,Amount,Gross Cost (Â£)
+q_table_31_j2_1.json,dl_table_144_j1_2_3.json,Amount,Actual Cost (Â£)
+q_table_31_j2_1.json,dl_table_144_j1_2_1.json,Amount,Actual Cost (Â£)
+q_table_31_j2_1.json,dl_table_144_j1_2_2.json,Amount,Actual Cost (Â£)
+q_table_31_j2_1.json,dl_table_144_j1_2_2_n_16.json,Amount,Actual Cost (Â£)
+q_table_31_j2_1.json,dl_table_144_j3_2_n_7.json,Amount,Actual Cost (Â£)
+q_table_31_j2_1.json,dl_table_144_j1_2_2_n_11.json,Amount,Actual Cost (Â£)
+q_table_31_j2_1.json,dl_table_144_j1_2_1_n_11.json,Amount,Actual Cost (Â£)
+q_table_31_j2_1.json,dl_table_144_j3_2_n_1.json,Amount,Actual Cost (Â£)
+q_table_31_j2_1.json,dl_table_144_j1_2_3.json,Amount,Gross Cost (Â£)
+q_table_31_j2_1.json,dl_table_144_j1_2_2.json,Amount,Gross Cost (Â£)
+q_table_31_j2_1.json,dl_table_144_j1_2_1_n_8.json,Amount,Actual Cost (Â£)
+q_table_31_j2_1.json,dl_table_144_j1_2_1.json,Amount,Gross Cost (Â£)
+q_table_31_j2_1.json,dl_table_144_j3_2_n_19.json,Amount,Actual Cost (Â£)
+q_table_61_j3_2.json,dl_table_61_j3_2_n_22.json,English Name,English Name
+q_table_61_j3_2.json,dl_table_61_j3_2_n_24.json,English Name,English Name
+q_table_61_j3_2.json,dl_table_61_j3_2_n_18.json,English Name,English Name
+q_table_61_j3_2.json,dl_table_61_j3_2.json,English Name,English Name
+q_table_61_j3_2.json,dl_table_61_j3_2_n_20.json,English Name,English Name
+q_table_152_j1_1.json,dl_table_155_j1_3_3_n_4.json,First,First Name
+q_table_152_j1_1.json,dl_table_152_j1_1_2.json,First,First
+q_table_152_j1_1.json,dl_table_152_j1_1_3.json,First,First
+q_table_152_j1_1.json,dl_table_145_j1_3_1.json,First,Mother
+q_table_152_j1_1.json,dl_table_145_j1_3_2.json,First,Mother
+q_table_152_j1_1.json,dl_table_145_j1_3_2_n_4.json,First,Mother
+q_table_152_j1_1.json,dl_table_145_j1_3_1_n_15.json,First,Mother
+q_table_152_j1_1.json,dl_table_145_j1_3_3.json,First,Mother
+q_table_152_j1_1.json,dl_table_145_j3_1.json,First,Mother
+q_table_152_j1_1.json,dl_table_145_j1_3_1_n_2.json,First,Mother
+q_table_152_j1_1.json,dl_table_145_j1_3_2_n_13.json,First,Mother
+q_table_152_j1_1.json,dl_table_155_j1_3_2_n_5.json,First,First Name
+q_table_152_j1_1.json,dl_table_145_j3_1_n_19.json,First,Mother
+q_table_152_j1_1.json,dl_table_145_j1_3_3_n_6.json,First,Mother
+q_table_152_j1_1.json,dl_table_145_j1_3_1_n_4.json,First,Mother
+q_table_152_j1_1.json,dl_table_155_j1_3_3_n_3.json,First,First Name
+q_table_152_j1_1.json,dl_table_155_j1_3_1_n_15.json,First,First Name
+q_table_152_j1_1.json,dl_table_155_j1_3_2_n_16.json,First,First Name
+q_table_152_j1_1.json,dl_table_155_j1_3_3_n_2.json,First,First Name
+q_table_152_j1_1.json,dl_table_39_j2_1_1_n_1.json,First,First Name
+q_table_63_j3_2.json,dl_table_63_j3_3_1_n_24.json,[Spanish_language|Spanish],[Spanish_language|Spanish]
+q_table_63_j3_2.json,dl_table_63_j3_3_2_n_15.json,[Spanish_language|Spanish],[Spanish_language|Spanish]
+q_table_63_j3_2.json,dl_table_63_j3_3_2_n_16.json,[Spanish_language|Spanish],[Spanish_language|Spanish]
+q_table_63_j3_2.json,dl_table_63_j3_2.json,[Spanish_language|Spanish],[Spanish_language|Spanish]
+q_table_63_j3_2.json,dl_table_63_j3_3_3_n_19.json,[Spanish_language|Spanish],[Spanish_language|Spanish]
+q_table_63_j3_2.json,dl_table_63_j3_3_2.json,[Spanish_language|Spanish],[Spanish_language|Spanish]
+q_table_63_j3_2.json,dl_table_63_j3_3_1_n_18.json,[Spanish_language|Spanish],[Spanish_language|Spanish]
+q_table_63_j3_2.json,dl_table_63_j3_2_n_24.json,[Spanish_language|Spanish],[Spanish_language|Spanish]
+q_table_63_j3_2.json,dl_table_63_j3_3_3_n_18.json,[Spanish_language|Spanish],[Spanish_language|Spanish]
+q_table_63_j3_2.json,dl_table_63_j3_3_3_n_17.json,[Spanish_language|Spanish],[Spanish_language|Spanish]
+q_table_63_j3_2.json,dl_table_63_j3_3_3.json,[Spanish_language|Spanish],[Spanish_language|Spanish]
+q_table_63_j3_2.json,dl_table_63_j3_3_1.json,[Spanish_language|Spanish],[Spanish_language|Spanish]
+q_table_63_j3_2.json,dl_table_63_j3_3_1_n_21.json,[Spanish_language|Spanish],[Spanish_language|Spanish]
+q_table_63_j3_2.json,dl_table_63_j3_3_1_n_15.json,[Spanish_language|Spanish],[Spanish_language|Spanish]
+q_table_63_j3_2.json,dl_table_63_j3_3_1_n_16.json,[Spanish_language|Spanish],[Spanish_language|Spanish]
+q_table_63_j3_2.json,dl_table_63_j3_3_3_n_10.json,[Spanish_language|Spanish],[Spanish_language|Spanish]
+q_table_63_j3_2.json,dl_table_63_j3_3_2_n_13.json,[Spanish_language|Spanish],[Spanish_language|Spanish]
+q_table_63_j3_2.json,dl_table_63_j3_3_2_n_11.json,[Spanish_language|Spanish],[Spanish_language|Spanish]
+q_table_63_j3_2.json,dl_table_63_j3_3_3_n_12.json,[Spanish_language|Spanish],[Spanish_language|Spanish]
+q_table_63_j3_2.json,dl_table_63_j3_3_3_n_8.json,[Spanish_language|Spanish],[Spanish_language|Spanish]
+q_table_63_j3_3.json,dl_table_63_j3_3_2_n_15.json,[Spanish_language|Spanish],[Spanish_language|Spanish]
+q_table_63_j3_3.json,dl_table_63_j3_3_1_n_24.json,[Spanish_language|Spanish],[Spanish_language|Spanish]
+q_table_63_j3_3.json,dl_table_63_j3_3_2.json,[Spanish_language|Spanish],[Italian_language|Italian]
+q_table_63_j3_3.json,dl_table_63_j3_3_1.json,[Spanish_language|Spanish],[Italian_language|Italian]
+q_table_63_j3_3.json,dl_table_63_j3_2_n_20.json,[Spanish_language|Spanish],[Spanish_language|Spanish]
+q_table_63_j3_3.json,dl_table_63_j3_3_1_n_18.json,[Spanish_language|Spanish],[Italian_language|Italian]
+q_table_63_j3_3.json,dl_table_63_j3_3_2_n_24.json,[Spanish_language|Spanish],[Spanish_language|Spanish]
+q_table_63_j3_3.json,dl_table_63_j3_3_2.json,[Spanish_language|Spanish],[Spanish_language|Spanish]
+q_table_63_j3_3.json,dl_table_63_j3_2_n_21.json,[Spanish_language|Spanish],[Spanish_language|Spanish]
+q_table_63_j3_3.json,dl_table_63_j3_3_1_n_15.json,[Spanish_language|Spanish],[Spanish_language|Spanish]
+q_table_63_j3_3.json,dl_table_63_j3_3_1_n_16.json,[Spanish_language|Spanish],[Spanish_language|Spanish]
+q_table_63_j3_3.json,dl_table_63_j3_3_1_n_21.json,[Spanish_language|Spanish],[Spanish_language|Spanish]
+q_table_63_j3_3.json,dl_table_63_j3_3_1_n_18.json,[Spanish_language|Spanish],[Spanish_language|Spanish]
+q_table_63_j3_3.json,dl_table_63_j3_3_1.json,[Spanish_language|Spanish],[Spanish_language|Spanish]
+q_table_63_j3_3.json,dl_table_63_j3_3_3.json,[Spanish_language|Spanish],[Spanish_language|Spanish]
+q_table_63_j3_3.json,dl_table_63_j3_3_3_n_18.json,[Spanish_language|Spanish],[Spanish_language|Spanish]
+q_table_63_j3_3.json,dl_table_63_j3_2.json,[Spanish_language|Spanish],[Spanish_language|Spanish]
+q_table_63_j3_3.json,dl_table_63_j3_3_3_n_17.json,[Spanish_language|Spanish],[Spanish_language|Spanish]
+q_table_63_j3_3.json,dl_table_63_j3_3_2_n_13.json,[Spanish_language|Spanish],[Spanish_language|Spanish]
+q_table_63_j3_3.json,dl_table_63_j3_3_3_n_19.json,[Spanish_language|Spanish],[Spanish_language|Spanish]
+q_table_56_j1_1.json,dl_table_56_j1_1_3.json,%,%
+q_table_56_j1_1.json,dl_table_144_j1_2_2_n_15.json,%,Gross Cost (Â£)
+q_table_56_j1_1.json,dl_table_144_j1_2_1_n_13.json,%,Actual Cost (Â£)
+q_table_56_j1_1.json,dl_table_144_j1_2_2_n_9.json,%,Gross Cost (Â£)
+q_table_56_j1_1.json,dl_table_144_j1_2_1_n_12.json,%,Gross Cost (Â£)
+q_table_56_j1_1.json,dl_table_144_j1_2_2_n_18.json,%,Gross Cost (Â£)
+q_table_56_j1_1.json,dl_table_144_j1_2_3_n_10.json,%,Gross Cost (Â£)
+q_table_56_j1_1.json,dl_table_144_j1_2_1_n_10.json,%,Gross Cost (Â£)
+q_table_56_j1_1.json,dl_table_144_j1_2_1_n_11.json,%,Gross Cost (Â£)
+q_table_56_j1_1.json,dl_table_144_j1_2_1_n_8.json,%,Gross Cost (Â£)
+q_table_56_j1_1.json,dl_table_144_j1_2_1_n_2.json,%,Actual Cost (Â£)
+q_table_56_j1_1.json,dl_table_144_j1_2_2_n_8.json,%,Gross Cost (Â£)
+q_table_56_j1_1.json,dl_table_125_j2_1_3.json,%,Price B$
+q_table_56_j1_1.json,dl_table_125_j2_1_3_n_6.json,%,Price B$
+q_table_56_j1_1.json,dl_table_125_j2_1_1.json,%,Price B$
+q_table_56_j1_1.json,dl_table_125_j2_1_2_n_3.json,%,Price B$
+q_table_56_j1_1.json,dl_table_125_j2_1_1_n_6.json,%,Price B$
+q_table_56_j1_1.json,dl_table_125_j2_1_2_n_8.json,%,Price B$
+q_table_56_j1_1.json,dl_table_125_j2_1_2_n_9.json,%,Price B$
+q_table_56_j1_1.json,dl_table_144_j1_2_2_n_17.json,%,Actual Cost (Â£)
+q_table_141_j2_1.json,dl_table_141_j2_1_3.json,Name,Name
+q_table_141_j2_1.json,dl_table_141_j2_1_2.json,Name,Name
+q_table_141_j2_1.json,dl_table_141_j2_1_1.json,Name,Name
+q_table_107_j3_2.json,dl_table_107_j3_2_n_22.json,Rider,Rider
+q_table_107_j3_2.json,dl_table_107_j3_2.json,Rider,Rider
+q_table_74_j2_1.json,dl_table_74_j2_1_1.json,Score,Score
+q_table_74_j2_1.json,dl_table_74_j2_1_3.json,Score,Score
+q_table_74_j2_1.json,dl_table_144_j1_2_2_n_15.json,Score,Actual Cost (Â£)
+q_table_74_j2_1.json,dl_table_74_j2_1_2.json,Score,Score
+q_table_74_j2_1.json,dl_table_144_j1_2_1_n_13.json,Score,Actual Cost (Â£)
+q_table_74_j2_1.json,dl_table_144_j1_2_1_n_18.json,Score,Actual Cost (Â£)
+q_table_74_j2_1.json,dl_table_144_j1_2_3_n_18.json,Score,Actual Cost (Â£)
+q_table_74_j2_1.json,dl_table_144_j1_2_2_n_13.json,Score,Gross Cost (Â£)
+q_table_74_j2_1.json,dl_table_144_j1_2_2_n_15.json,Score,Gross Cost (Â£)
+q_table_74_j2_1.json,dl_table_144_j1_2_3_n_15.json,Score,Gross Cost (Â£)
+q_table_74_j2_1.json,dl_table_144_j3_2_n_21.json,Score,Gross Cost (Â£)
+q_table_74_j2_1.json,dl_table_144_j3_2_n_23.json,Score,Gross Cost (Â£)
+q_table_74_j2_1.json,dl_table_144_j1_2_1_n_12.json,Score,Actual Cost (Â£)
+q_table_74_j2_1.json,dl_table_144_j1_2_1.json,Score,Gross Cost (Â£)
+q_table_74_j2_1.json,dl_table_144_j1_2_3.json,Score,Gross Cost (Â£)
+q_table_74_j2_1.json,dl_table_144_j1_2_2.json,Score,Gross Cost (Â£)
+q_table_74_j2_1.json,dl_table_144_j1_2_3_n_9.json,Score,Actual Cost (Â£)
+q_table_74_j2_1.json,dl_table_144_j1_2_3_n_17.json,Score,Gross Cost (Â£)
+q_table_74_j2_1.json,dl_table_144_j3_2.json,Score,Gross Cost (Â£)
+q_table_74_j2_1.json,dl_table_144_j3_2_n_19.json,Score,Gross Cost (Â£)
+q_table_23_j3_2.json,dl_table_23_j3_2_n_13.json,DEPT_EN_DESC,MINE
+q_table_23_j3_2.json,dl_table_23_j3_2_n_17.json,DEPT_EN_DESC,DEPT_EN_DESC
+q_table_23_j3_2.json,dl_table_23_j3_2_n_19.json,DEPT_EN_DESC,DEPT_EN_DESC
+q_table_23_j3_2.json,dl_table_23_j3_2_n_18.json,DEPT_EN_DESC,DEPT_EN_DESC
+q_table_23_j3_2.json,dl_table_23_j3_2_n_21.json,DEPT_EN_DESC,DEPT_EN_DESC
+q_table_23_j3_2.json,dl_table_23_j3_2.json,DEPT_EN_DESC,DEPT_EN_DESC
+q_table_23_j3_2.json,dl_table_23_j3_2_n_22.json,DEPT_EN_DESC,DEPT_EN_DESC
+q_table_23_j3_2.json,dl_table_23_j3_2_n_23.json,DEPT_EN_DESC,DEPT_EN_DESC
+q_table_23_j3_2.json,dl_table_23_j3_2_n_22.json,DEPT_EN_DESC,MINE
+q_table_23_j3_2.json,dl_table_23_j3_2_n_7.json,DEPT_EN_DESC,MINE
+q_table_23_j3_2.json,dl_table_23_j3_2_n_6.json,DEPT_EN_DESC,MINE
+q_table_23_j3_2.json,dl_table_23_j3_2_n_23.json,DEPT_EN_DESC,MINE
+q_table_23_j3_2.json,dl_table_23_j3_2_n_17.json,DEPT_EN_DESC,MINE
+q_table_23_j3_2.json,dl_table_23_j3_2_n_19.json,DEPT_EN_DESC,MINE
+q_table_23_j3_2.json,dl_table_23_j3_2_n_4.json,DEPT_EN_DESC,MINE
+q_table_23_j3_2.json,dl_table_23_j3_2_n_20.json,DEPT_EN_DESC,MINE
+q_table_23_j3_2.json,dl_table_23_j3_2_n_8.json,DEPT_EN_DESC,MINE
+q_table_23_j3_2.json,dl_table_23_j3_2_n_21.json,DEPT_EN_DESC,MINE
+q_table_23_j3_2.json,dl_table_23_j3_2_n_24.json,DEPT_EN_DESC,MINE
+q_table_23_j3_2.json,dl_table_23_j3_2_n_5.json,DEPT_EN_DESC,MINE
+q_table_14_j1_3.json,dl_table_14_j1_3_2_n_14.json,SURFACE LATITUDE,SURFACE LATITUDE
+q_table_14_j1_3.json,dl_table_14_j1_3_3.json,SURFACE LATITUDE,SURFACE LATITUDE
+q_table_14_j1_3.json,dl_table_14_j1_3_3_n_17.json,SURFACE LATITUDE,SURFACE LATITUDE
+q_table_14_j1_3.json,dl_table_14_j1_3_1_n_16.json,SURFACE LATITUDE,SURFACE LATITUDE
+q_table_14_j1_3.json,dl_table_14_j1_3_2.json,SURFACE LATITUDE,SURFACE LATITUDE
+q_table_14_j1_3.json,dl_table_14_j1_3_3_n_13.json,SURFACE LATITUDE,SURFACE LATITUDE
+q_table_14_j1_3.json,dl_table_14_j1_3_1.json,SURFACE LATITUDE,SURFACE LATITUDE
+q_table_14_j1_3.json,dl_table_14_j1_3_3_n_14.json,SURFACE LATITUDE,SURFACE LATITUDE
+q_table_14_j1_3.json,dl_table_14_j1_3_2_n_16.json,SURFACE LATITUDE,SURFACE LATITUDE
+q_table_14_j1_3.json,dl_table_14_j1_3_1_n_18.json,SURFACE LATITUDE,SURFACE LATITUDE
+q_table_14_j1_3.json,dl_table_14_j1_3_1_n_13.json,SURFACE LATITUDE,SURFACE LATITUDE
+q_table_14_j1_3.json,dl_table_14_j1_3_3_n_16.json,SURFACE LATITUDE,SURFACE LATITUDE
+q_table_40_j2_1.json,dl_table_40_j2_1_2.json,B/N,B/N
+q_table_40_j2_1.json,dl_table_40_j2_1_3.json,B/N,B/N
+q_table_40_j2_1.json,dl_table_105_j2_1_1_n_22.json,B/N,Contact Person Number
+q_table_40_j2_1.json,dl_table_1_j2_1_1_n_10.json,B/N,Quincy Ave & Hill Ave
+q_table_40_j2_1.json,dl_table_105_j2_1_3_n_17.json,B/N,Contact Person Number
+q_table_40_j2_1.json,dl_table_40_j2_1_1_n_14.json,B/N,Notes
+q_table_40_j2_1.json,dl_table_105_j2_1_2_n_12.json,B/N,Contact No.
+q_table_40_j2_1.json,dl_table_105_j2_1_2_n_12.json,B/N,Pincode
+q_table_40_j2_1.json,dl_table_145_j1_3_1_n_15.json,B/N,Bapt-date
+q_table_40_j2_1.json,dl_table_145_j1_3_1_n_15.json,B/N,Residence
+q_table_40_j2_1.json,dl_table_145_j1_3_1_n_15.json,B/N,Father
+q_table_40_j2_1.json,dl_table_145_j1_3_1_n_15.json,B/N,Bapt-place
+q_table_40_j2_1.json,dl_table_145_j1_3_1_n_15.json,B/N,Mother
+q_table_40_j2_1.json,dl_table_145_j1_3_1_n_15.json,B/N,Birthplace
+q_table_40_j2_1.json,dl_table_105_j2_1_3_n_20.json,B/N,Contact Person Number
+q_table_40_j2_1.json,dl_table_1_j2_1_1_n_7.json,B/N,Quincy Ave & Hill Ave
+q_table_40_j2_1.json,dl_table_1_j2_1_1_n_7.json,B/N,Hancock St & Walter J Hannon Pkwy
+q_table_40_j2_1.json,dl_table_40_j2_1_3_n_20.json,B/N,Notes
+q_table_40_j2_1.json,dl_table_141_j2_1_3_n_24.json,B/N,Roomshare?
+q_table_40_j2_1.json,dl_table_40_j2_1_1.json,B/N,B/N
+q_table_79_j1_3.json,dl_table_79_j1_3_1.json,Winner,Runner(s)-up
+q_table_79_j1_3.json,dl_table_79_j1_3_3.json,Winner,Runner(s)-up
+q_table_79_j1_3.json,dl_table_79_j1_3_2_n_2.json,Winner,Runner(s)-up
+q_table_79_j1_3.json,dl_table_79_j1_3_2.json,Winner,Score
+q_table_79_j1_3.json,dl_table_79_j1_3_3.json,Winner,Country
+q_table_79_j1_3.json,dl_table_79_j1_3_3.json,Winner,Score
+q_table_79_j1_3.json,dl_table_79_j1_3_2.json,Winner,Winning margin
+q_table_79_j1_3.json,dl_table_79_j1_3_2_n_2.json,Winner,Winning margin
+q_table_79_j1_3.json,dl_table_79_j1_3_2_n_13.json,Winner,Year
+q_table_79_j1_3.json,dl_table_79_j1_3_2_n_2.json,Winner,Score
+q_table_79_j1_3.json,dl_table_79_j1_3_2_n_2.json,Winner,Venue
+q_table_79_j1_3.json,dl_table_79_j1_3_2_n_13.json,Winner,Score
+q_table_79_j1_3.json,dl_table_79_j1_3_1_n_14.json,Winner,Year
+q_table_79_j1_3.json,dl_table_79_j1_3_3_n_1.json,Winner,Score
+q_table_79_j1_3.json,dl_table_79_j1_3_3_n_1.json,Winner,Runner(s)-up
+q_table_79_j1_3.json,dl_table_79_j1_3_1_n_14.json,Winner,Venue
+q_table_79_j1_3.json,dl_table_79_j1_3_3_n_1.json,Winner,Venue
+q_table_79_j1_3.json,dl_table_79_j1_3_1_n_14.json,Winner,Winning margin
+q_table_79_j1_3.json,dl_table_79_j1_3_3.json,Winner,Venue
+q_table_79_j1_3.json,dl_table_79_j1_3_2.json,Winner,Country
+q_table_105_j2_1.json,dl_table_105_j2_1_1.json,ASCs Name,ASCs Name
+q_table_105_j2_1.json,dl_table_105_j2_1_2.json,ASCs Name,ASCs Name
+q_table_105_j2_1.json,dl_table_105_j2_1_3.json,ASCs Name,ASCs Name
+q_table_77_j1_1.json,dl_table_77_j1_1_3.json,Last Name,Last Name
+q_table_77_j1_1.json,dl_table_77_j1_1_2.json,Last Name,Last Name
+q_table_77_j1_1.json,dl_table_77_j1_1_1.json,Last Name,Last Name
+q_table_135_j2_1.json,dl_table_135_j2_1_3.json,Selector1,Selector1
+q_table_135_j2_1.json,dl_table_135_j2_1_1.json,Selector1,Selector1
+q_table_135_j2_1.json,dl_table_135_j2_1_2.json,Selector1,Selector1
+q_table_135_j2_1.json,dl_table_135_j2_1_3_n_2.json,Selector1,Selector6
+q_table_135_j2_1.json,dl_table_135_j2_1_2_n_4.json,Selector1,Selector6
+q_table_135_j2_1.json,dl_table_135_j2_1_2_n_6.json,Selector1,Selector6
+q_table_135_j2_1.json,dl_table_135_j2_1_3.json,Selector1,Selector6
+q_table_135_j2_1.json,dl_table_135_j2_1_1.json,Selector1,Selector6
+q_table_135_j2_1.json,dl_table_135_j2_1_3_n_4.json,Selector1,Selector6
+q_table_135_j2_1.json,dl_table_135_j2_1_3_n_5.json,Selector1,Selector6
+q_table_135_j2_1.json,dl_table_135_j2_1_3_n_1.json,Selector1,Selector6
+q_table_135_j2_1.json,dl_table_135_j2_1_2.json,Selector1,Selector6
+q_table_135_j2_1.json,dl_table_135_j2_1_3_n_6.json,Selector1,Selector6
+q_table_86_j3_2.json,dl_table_86_j3_2_n_21.json,Value,Value
+q_table_86_j3_2.json,dl_table_146_j2_1_1_n_13.json,Value,Field12
+q_table_86_j3_2.json,dl_table_146_j2_1_1_n_13.json,Value,Field20
+q_table_86_j3_2.json,dl_table_146_j2_1_3_n_20.json,Value,Field15
+q_table_86_j3_2.json,dl_table_146_j2_1_1_n_13.json,Value,Field15
+q_table_86_j3_2.json,dl_table_146_j2_1_1_n_13.json,Value,Field14
+q_table_86_j3_2.json,dl_table_136_j3_2_n_29.json,Value,Value
+q_table_86_j3_2.json,dl_table_62_j3_1.json,Value,$K
+q_table_86_j3_2.json,dl_table_146_j2_1_3_n_20.json,Value,Field20
+q_table_86_j3_2.json,dl_table_146_j2_1_3_n_20.json,Value,Field10
+q_table_86_j3_2.json,dl_table_146_j2_1_2_n_22.json,Value,Field20
+q_table_86_j3_2.json,dl_table_146_j2_1_2_n_22.json,Value,Field10
+q_table_86_j3_2.json,dl_table_146_j2_1_2_n_22.json,Value,Field14
+q_table_86_j3_2.json,dl_table_146_j2_1_2_n_22.json,Value,Field15
+q_table_86_j3_2.json,dl_table_62_j3_1.json,Value,$
+q_table_86_j3_2.json,dl_table_152_j1_1_3_n_3.json,Value,Page
+q_table_86_j3_2.json,dl_table_62_j3_1.json,Value,PS
+q_table_86_j3_2.json,dl_table_62_j3_1.json,Value,$W
+q_table_86_j3_2.json,dl_table_62_j3_1.json,Value,$ERA
+q_table_86_j3_2.json,dl_table_62_j3_1.json,Value,$WHIP
+q_table_45_j1_1.json,dl_table_45_j1_1_1.json,Area (Sq. Feet ),Area (Sq. Feet )
+q_table_45_j1_1.json,dl_table_45_j1_1_2.json,Area (Sq. Feet ),Area (Sq. Feet )
+q_table_45_j1_1.json,dl_table_1_j2_1_1_n_10.json,Area (Sq. Feet ),Quincy Ave Opp President Plaza
+q_table_45_j1_1.json,dl_table_1_j2_1_1_n_10.json,Area (Sq. Feet ),Quincy Ave & Hill Ave
+q_table_45_j1_1.json,dl_table_105_j2_1_1_n_22.json,Area (Sq. Feet ),Contact Person Number
+q_table_45_j1_1.json,dl_table_105_j2_1_3_n_17.json,Area (Sq. Feet ),Contact Person Number
+q_table_45_j1_1.json,dl_table_40_j2_1_1_n_14.json,Area (Sq. Feet ),Notes
+q_table_45_j1_1.json,dl_table_105_j2_1_2_n_12.json,Area (Sq. Feet ),Contact No.
+q_table_45_j1_1.json,dl_table_45_j1_1_3.json,Area (Sq. Feet ),Area (Sq. Feet )
+q_table_45_j1_1.json,dl_table_121_j2_1_2_n_11.json,Area (Sq. Feet ),length
+q_table_45_j1_1.json,dl_table_121_j2_1_1_n_7.json,Area (Sq. Feet ),length
+q_table_45_j1_1.json,dl_table_121_j2_1_1_n_19.json,Area (Sq. Feet ),length
+q_table_45_j1_1.json,dl_table_121_j2_1_1_n_15.json,Area (Sq. Feet ),length
+q_table_45_j1_1.json,dl_table_121_j2_1_3_n_1.json,Area (Sq. Feet ),length
+q_table_45_j1_1.json,dl_table_121_j2_1_2_n_5.json,Area (Sq. Feet ),length
+q_table_45_j1_1.json,dl_table_121_j2_1_3_n_15.json,Area (Sq. Feet ),length
+q_table_45_j1_1.json,dl_table_121_j2_1_2_n_15.json,Area (Sq. Feet ),length
+q_table_45_j1_1.json,dl_table_121_j2_1_3_n_11.json,Area (Sq. Feet ),length
+q_table_45_j1_1.json,dl_table_121_j2_1_1_n_2.json,Area (Sq. Feet ),length
+q_table_45_j1_1.json,dl_table_121_j2_1_1_n_13.json,Area (Sq. Feet ),length
+q_table_1_j2_1.json,dl_table_1_j2_1_2.json,Hancock St & Cottage Ave,Hancock St & Cottage Ave
+q_table_1_j2_1.json,dl_table_1_j2_1_3.json,Hancock St & Cottage Ave,Hancock St & Cottage Ave
+q_table_1_j2_1.json,dl_table_1_j2_1_1.json,Hancock St & Cottage Ave,Hancock St & Cottage Ave
+q_table_1_j2_1.json,dl_table_1_j2_1_1_n_2.json,Hancock St & Cottage Ave,Washington St & Broad St
+q_table_1_j2_1.json,dl_table_1_j2_1_2_n_22.json,Hancock St & Cottage Ave,Washington St & Broad St
+q_table_1_j2_1.json,dl_table_1_j2_1_2_n_19.json,Hancock St & Cottage Ave,Washington St & Broad St
+q_table_1_j2_1.json,dl_table_1_j2_1_1_n_15.json,Hancock St & Cottage Ave,Washington St & Broad St
+q_table_1_j2_1.json,dl_table_1_j2_1_2_n_13.json,Hancock St & Cottage Ave,Washington St & Broad St
+q_table_1_j2_1.json,dl_table_1_j2_1_1_n_24.json,Hancock St & Cottage Ave,Washington St & Broad St
+q_table_1_j2_1.json,dl_table_1_j2_1_3_n_19.json,Hancock St & Cottage Ave,Washington St & Broad St
+q_table_1_j2_1.json,dl_table_1_j2_1_2_n_11.json,Hancock St & Cottage Ave,Washington St & Broad St
+q_table_1_j2_1.json,dl_table_1_j2_1_1_n_13.json,Hancock St & Cottage Ave,Washington St & Broad St
+q_table_1_j2_1.json,dl_table_1_j2_1_2_n_1.json,Hancock St & Cottage Ave,Washington St & Broad St
+q_table_1_j2_1.json,dl_table_1_j2_1_2_n_14.json,Hancock St & Cottage Ave,Washington St & Broad St
+q_table_1_j2_1.json,dl_table_1_j2_1_1_n_5.json,Hancock St & Cottage Ave,Washington St & Broad St
+q_table_1_j2_1.json,dl_table_1_j2_1_2_n_6.json,Hancock St & Cottage Ave,Washington St & Broad St
+q_table_1_j2_1.json,dl_table_1_j2_1_1_n_18.json,Hancock St & Cottage Ave,Washington St & Broad St
+q_table_1_j2_1.json,dl_table_1_j2_1_3_n_11.json,Hancock St & Cottage Ave,Washington St & Broad St
+q_table_1_j2_1.json,dl_table_1_j2_1_3_n_9.json,Hancock St & Cottage Ave,Washington St & Broad St
+q_table_1_j2_1.json,dl_table_1_j2_1_2_n_12.json,Hancock St & Cottage Ave,Washington St & Broad St
+q_table_92_j1_3.json,dl_table_92_j1_3_1.json,Developer,Developer
+q_table_92_j1_3.json,dl_table_92_j1_3_2.json,Developer,Developer
+q_table_92_j1_3.json,dl_table_92_j1_3_3.json,Developer,Developer
+q_table_92_j1_3.json,dl_table_92_j1_3_2_n_16.json,Developer,Developer
+q_table_92_j1_3.json,dl_table_92_j1_3_3_n_18.json,Developer,Developer
+q_table_38_j1_3.json,dl_table_38_j1_3_3.json,Title,Title
+q_table_38_j1_3.json,dl_table_38_j1_3_2_n_15.json,Title,Title
+q_table_38_j1_3.json,dl_table_38_j1_3_3_n_13.json,Title,Title
+q_table_38_j1_3.json,dl_table_38_j1_3_2_n_18.json,Title,Title
+q_table_38_j1_3.json,dl_table_38_j1_3_2.json,Title,Title
+q_table_38_j1_3.json,dl_table_38_j1_3_1.json,Title,Title
+q_table_38_j1_3.json,dl_table_38_j1_3_2_n_17.json,Title,Title
+q_table_38_j1_3.json,dl_table_38_j1_3_2_n_16.json,Title,Title
+q_table_38_j1_3.json,dl_table_38_j1_3_2_n_14.json,Title,Title
+q_table_38_j1_3.json,dl_table_38_j1_3_3_n_16.json,Title,Title
+q_table_38_j1_3.json,dl_table_38_j1_3_1_n_17.json,Title,Title
+q_table_38_j1_3.json,dl_table_38_j1_3_3_n_15.json,Title,Title
+q_table_38_j1_3.json,dl_table_38_j1_3_1_n_14.json,Title,Title
+q_table_38_j1_3.json,dl_table_38_j1_3_2_n_13.json,Title,Title
+q_table_38_j1_3.json,dl_table_38_j1_3_3_n_18.json,Title,Title
+q_table_130_j3_2.json,dl_table_130_j3_2.json,Power consumption (Watts),Power consumption (Watts)
+q_table_130_j3_2.json,dl_table_130_j3_2_n_17.json,Power consumption (Watts),Power consumption (Watts)
+q_table_130_j3_2.json,dl_table_130_j3_2_n_22.json,Power consumption (Watts),Power consumption (Watts)
+q_table_130_j3_2.json,dl_table_130_j3_2_n_21.json,Power consumption (Watts),Power consumption (Watts)
+q_table_130_j3_2.json,dl_table_130_j3_2_n_24.json,Power consumption (Watts),Power consumption (Watts)
+q_table_130_j3_2.json,dl_table_130_j3_2_n_19.json,Power consumption (Watts),Power consumption (Watts)
+q_table_130_j3_2.json,dl_table_130_j3_2_n_23.json,Power consumption (Watts),Power consumption (Watts)
+q_table_88_j1_3.json,dl_table_88_j1_3_1_n_15.json,Index,Index
+q_table_88_j1_3.json,dl_table_88_j1_3_1.json,Index,Index
+q_table_88_j1_3.json,dl_table_88_j1_3_2.json,Index,Index
+q_table_88_j1_3.json,dl_table_88_j1_3_3_n_15.json,Index,Index
+q_table_88_j1_3.json,dl_table_88_j1_3_3_n_16.json,Index,Index
+q_table_88_j1_3.json,dl_table_88_j1_3_2_n_14.json,Index,Index
+q_table_88_j1_3.json,dl_table_88_j1_3_3.json,Index,Index
+q_table_88_j1_3.json,dl_table_88_j1_3_2_n_17.json,Index,Index
+q_table_88_j1_3.json,dl_table_88_j1_3_3_n_14.json,Index,Index
+q_table_88_j1_3.json,dl_table_88_j1_3_3_n_13.json,Index,Index
+q_table_88_j1_3.json,dl_table_88_j1_3_1_n_14.json,Index,Index
+q_table_88_j1_3.json,dl_table_88_j1_3_2_n_13.json,Index,Index
+q_table_88_j1_3.json,dl_table_88_j1_3_2_n_16.json,Index,Index
+q_table_88_j1_3.json,dl_table_88_j1_3_1_n_16.json,Index,Index
+q_table_88_j1_3.json,dl_table_88_j1_3_3_n_18.json,Index,Index
+q_table_85_j2_1.json,dl_table_85_j2_1_3.json,Examples of minor value,Examples of minor value
+q_table_85_j2_1.json,dl_table_85_j2_1_2.json,Examples of minor value,Examples of minor value
+q_table_85_j2_1.json,dl_table_85_j2_1_1.json,Examples of minor value,Examples of minor value
+q_table_94_j3_2.json,dl_table_94_j3_3_2_n_6.json,Username2,Contact_Name
+q_table_94_j3_2.json,dl_table_94_j3_2.json,Username2,Full_Name
+q_table_94_j3_2.json,dl_table_94_j3_2.json,Username2,Contact_Name
+q_table_94_j3_2.json,dl_table_94_j3_2_n_7.json,Username2,Contact_Name
+q_table_94_j3_2.json,dl_table_94_j3_3_3_n_15.json,Username2,Username2
+q_table_94_j3_2.json,dl_table_94_j3_3_3_n_15.json,Username2,Contact_Name
+q_table_94_j3_2.json,dl_table_94_j3_3_3_n_19.json,Username2,Contact_Name
+q_table_94_j3_2.json,dl_table_94_j3_3_1_n_14.json,Username2,Username2
+q_table_94_j3_2.json,dl_table_94_j3_3_2_n_2.json,Username2,Contact_Name
+q_table_94_j3_2.json,dl_table_94_j3_3_1_n_1.json,Username2,Contact_Name
+q_table_94_j3_2.json,dl_table_94_j3_3_1_n_14.json,Username2,Full_Name
+q_table_94_j3_2.json,dl_table_94_j3_3_1_n_14.json,Username2,Contact_Name
+q_table_94_j3_2.json,dl_table_94_j3_3_2_n_2.json,Username2,Full_Name
+q_table_94_j3_2.json,dl_table_94_j3_3_3_n_21.json,Username2,Contact_Name
+q_table_94_j3_2.json,dl_table_94_j3_3_3_n_21.json,Username2,Full_Name
+q_table_94_j3_2.json,dl_table_94_j3_3_1_n_5.json,Username2,Full_Name
+q_table_94_j3_2.json,dl_table_94_j3_3_1_n_5.json,Username2,Contact_Name
+q_table_94_j3_2.json,dl_table_94_j3_3_3_n_2.json,Username2,Full_Name
+q_table_94_j3_2.json,dl_table_94_j3_3_1_n_20.json,Username2,Username2
+q_table_94_j3_2.json,dl_table_94_j3_3_1_n_20.json,Username2,Full_Name
+q_table_94_j3_3.json,dl_table_94_j3_3_2.json,Username2,Username2
+q_table_94_j3_3.json,dl_table_94_j3_3_2.json,Username2,Full_Name
+q_table_94_j3_3.json,dl_table_94_j3_3_1.json,Username2,Full_Name
+q_table_94_j3_3.json,dl_table_94_j3_3_1.json,Username2,Username2
+q_table_94_j3_3.json,dl_table_94_j3_3_3_n_19.json,Username2,Contact_Name
+q_table_94_j3_3.json,dl_table_94_j3_3_3_n_5.json,Username2,Contact_Name
+q_table_94_j3_3.json,dl_table_94_j3_3_3_n_22.json,Username2,Username2
+q_table_94_j3_3.json,dl_table_94_j3_3_3_n_22.json,Username2,Full_Name
+q_table_94_j3_3.json,dl_table_94_j3_3_3.json,Username2,Username2
+q_table_94_j3_3.json,dl_table_94_j3_3_3.json,Username2,Full_Name
+q_table_94_j3_3.json,dl_table_94_j3_2.json,Username2,Username2
+q_table_94_j3_3.json,dl_table_94_j3_3_1_n_2.json,Username2,Contact_Name
+q_table_94_j3_3.json,dl_table_94_j3_3_1_n_2.json,Username2,Full_Name
+q_table_94_j3_3.json,dl_table_94_j3_3_1_n_14.json,Username2,Full_Name
+q_table_94_j3_3.json,dl_table_94_j3_3_1_n_14.json,Username2,Contact_Name
+q_table_94_j3_3.json,dl_table_94_j3_3_1_n_14.json,Username2,Username2
+q_table_94_j3_3.json,dl_table_94_j3_3_2_n_23.json,Username2,Contact_Name
+q_table_94_j3_3.json,dl_table_94_j3_3_1_n_15.json,Username2,Username2
+q_table_94_j3_3.json,dl_table_94_j3_3_1_n_1.json,Username2,Contact_Name
+q_table_94_j3_3.json,dl_table_94_j3_3_3_n_2.json,Username2,Full_Name
