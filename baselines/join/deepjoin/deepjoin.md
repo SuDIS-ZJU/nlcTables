@@ -4,7 +4,6 @@
 
 ```
 .
-├─── img                    # picture of different experiments
 ├─── all-mpnet-base-v2      #model name because this file is too large  it is not uploaded ,but you can download it from    https://huggingface.co/sentence-transformers/all-mpnet-base-v2                     
 | 
 ├─── datapreocess           # process data                
